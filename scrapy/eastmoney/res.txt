@@ -1,0 +1,3088 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--Õ∑≤øcss metaµ»±Í«©-->
+    <meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<title>À—À˜Ω·π˚</title>
+<link rel="stylesheet" href="/Content/css/reset.css?__v=3.3.3" />
+<link rel="stylesheet" href="/Content/css/s.css?__v=3.3.3" />
+<base target="_blank" />
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?e834f0bcb11ce14253b9eba75492b597";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+
+<body>
+
+    <div class="header">
+	<div class="excursion">
+		<div class="search clearflaot">
+			<a class="logo" href="http://www.eastmoney.com">
+				<img src="/Content/img/logo-124.png" />
+			</a>
+			<div class="search-input clearflaot">
+				<form action="">
+                	<input type="text" value="600023" id="searchSuggest" />
+				</form>
+				<button>À— À˜</button>
+			</div>
+			<div class="keywords" id="keywords">
+				<ul></ul>
+			</div>
+		</div>
+	</div>
+		
+	<div class="ouher">
+		<a href="http://www.eastmoney.com/">∂´∑Ω≤∆∏ªÕ¯</a>|
+		<a href="/">À—À˜ ◊“≥</a>
+	</div>
+</div>
+
+
+    <div class="container">
+
+        <div class="types">
+    <ul class="clearflaot">
+        <li class="web">
+            <a target="_self">Õ¯“≥</a>
+        </li>
+        <li class="quote">
+            <a target="_self">––«È</a>
+        </li>
+        <li class="zixun">
+            <a target="_self">◊ —∂</a>
+        </li>
+        <li class="gonggao">
+            <a target="_self">π´∏Ê</a>
+        </li>
+        <li class="yanbao">
+            <a target="_self">—–±®</a>
+        </li>
+        <li class="caifuhaowenzhang">
+            <a target="_self">≤∆∏ª∫≈Œƒ’¬</a>
+        </li>
+        <li class="guba">
+            <a target="_self">π…∞…</a>
+        </li>
+        <li class="wendongmi">
+            <a target="_self">Œ ∂≠√ÿ</a>
+        </li>
+        <li class="xuanshangwen">
+            <a target="_self">–¸…ÕŒ </a>
+        </li>
+        <li class="boke">
+            <a target="_self">≤©øÕ</a>
+        </li>
+        <li class="zuhe">
+            <a target="_self">◊È∫œ</a>
+        </li>
+        <!-- <li class="caifushenghuo">
+        <a target="_self">≤∆∏ª…˙ªÓ</a>
+    </li> -->
+        <li class="caifuhao">
+            <a target="_self">≤∆∏ª∫≈</a>
+        </li>
+        <li class="ibaike">
+            <a target="_self">∞Ÿø∆</a>
+        </li>
+    </ul>
+</div>
+
+        <div class="main clearflaot">
+
+            <div class="search-result" style="display: none;">
+	<div class="count">œ‡πÿΩ·π˚‘º0∏ˆ</div>
+	<div class="correlation">
+		<img src="/Content/img/icon-em.png" />
+		<span class="possible">“‘œ¬Œ™ƒ˙œ‘ æ<span></span>µƒÀ—À˜Ω·π˚°£ </span>
+		<span class="still"></span>
+		<a></a>
+	</div>
+</div>
+
+
+            <div class="modules">
+                <!--√ª”–À—µΩƒ⁄»›-->
+                <div class="module module-empty ">
+	<h3 class="clearflaot">
+		±ß«∏£¨’“≤ªµΩ"<em>000</em>"œ‡πÿ–≈œ¢
+	</h3>
+	<p>ƒ˙ø…“‘≥¢ ‘£∫</p>
+	<ul>
+		<li>ºÏ≤È ‰»Îµƒπÿº¸¥  «∑Ò”–ŒÛ</li>
+		<li>÷ÿ–¬ ‰»Î–¬µƒπÿº¸¥ </li>
+	</ul>
+	
+	<h2>»•Õ¯“≥À—À˜£∫ <a>1111</a></h2>
+	
+</div>
+
+
+                <!--—°π…∆˜-->
+                <div class="module module-wen">
+
+</div>
+
+                <!--∞Ÿø∆-->
+                 <!--∞Ÿø∆-->
+<div class="module module-baike">
+    <div class="amodule">
+        <h3>
+            <a></a>
+        </h3>
+        <p>
+        </p>
+        <div class="comy_jianjie">
+
+        </div>
+
+    </div>
+
+
+    <div class="other_info">
+        <div class="left"><a href="#"></a>&nbsp;&nbsp;<a href="#"></a></div>
+        <div class="right"><a href="#"></a></div>
+    </div>
+</div>
+
+
+                <!--æ´»∑∆•≈‰µƒƒ≥“ª∏ˆ∏ˆπ…-->
+                 <div class="module module-share">
+                <div class="title clearflaot">
+                    <a>
+                        <h3> </h3>
+                        <span> </span>
+                    </a>
+                    <a href="">
+                        <img src="/Content/img/jshq.png">
+                    </a>
+                    <label> </label>
+                </div>
+
+                <div class="main-data">
+                    <div class="priceinfo">
+                        <span class="price"></span>
+                        <span class="direction"></span>
+                        <span class="amount"></span>
+                        <span class="range"></span>
+                        <label class="rong">»⁄</label>
+                        <label class="hgt"></label>
+                        <label class="jyz"></label>
+                    </div>
+                    <div class="otherinfo">
+                        <table>
+                            <tr>
+                                <td>
+                                    <label>≥…Ωª¡ø£∫</label>
+                                    <span></span>
+                                </td>
+                                 <td>
+                                    <label>ªª ÷¬ £∫</label>
+                                    <span></span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <label> –”Ø¬ £∫</label>
+                                    <span></span>
+                                </td>
+                                <td>
+                                    <label>◊‹ –÷µ£∫</label>
+                                    <span></span>
+                                </td>
+
+                            </tr>
+                           
+                            
+                        </table>
+                    </div>
+                </div>
+
+               <div class="main_gu">
+
+                    <div class="emcharts-4">
+                        <div class="tabs4">
+                            <ul class="clearflaot">
+                                <li class="chart1 active">∑÷ ±</li>
+                                <li class="chart2">»’K</li>
+                                <li class="chart3">÷‹K</li>
+                                <li class="chart4">‘¬K</li>
+                            </ul>
+                            <div class="fullbun" style="display:none;">
+                                    <i></i>
+                                    <span>»´∆¡</span>
+                            </div>
+                        </div>
+
+                        <a href="">
+                            <span></span>
+                            <div class="emc-container">
+                                <div class="emsc-4">
+                                    <div id="emsc-1-time"></div>
+                                    <div id="emsc-2-day"></div>
+                                    <div id="emsc-3-week"></div>
+                                    <div id="emsc-4-month"></div>
+                                </div>
+                                <div class="fullbun">
+                                    <i></i>
+                                    <span>»´∆¡</span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="zhengu" style="display:none;">
+                        <div class="main_content">
+                            <div class="pingfen">◊€∫œ∆¿∑÷ <span>--</span></div>
+                            <div class="biaoxian">ΩÒ»’±Ìœ÷ <span>--</span></div>
+                            <div class="dabai">¥Ú∞‹¡À <span>--</span> µƒπ…∆±</div>
+                            <div class="shangzhang">¥Œ»’…œ’«∏≈¬  <span>--</span></div>
+                            <p class="commit">--</p>
+                            <div class="shengming" title="±æπ¶ƒ‹÷–µƒƒ⁄»›æ˘Ωˆπ©≤Œøº£¨Ω®“ÈÕ∂◊ ’ﬂ∏˘æ›◊‘…ÌÕ∂◊ ∑Á∏ÒΩ¯––…∏—°£¨≤¢∫œ¿Ìøÿ÷∆∑Áœ’°£">√‚‘…˘√˜ <span class="wenhao">?</span> <a class="xiangqing" href="#">œÍ«È</a></div>
+
+                        </div>
+                        
+
+                    </div>
+
+                </div>
+
+                <div class="links">
+               
+                <div class="otherlink">
+                    <ul class="clearflaot">
+                        <li>
+                            <span class="icon icon-1"></span>
+                            <a target="_blank" class="hangq">≤È—Ø∏√π…––«È</a>
+                        </li>
+                        <li>
+                            <span class="icon icon-2"></span>
+                            <a target="_blank" class="zijin"> µ ±◊ Ω¡˜œÚ</a>
+                        </li>
+                        <li>
+                            <span class="icon icon-3"></span>
+                            <a target="_blank" class="shuju">…Ó∂» ˝æ›Ω“√ÿ</a>
+                        </li>
+                        <li>
+                            <span class="icon icon-4"></span>
+                            <a target="_blank" class="baba">Ω¯»Î¥ÛÃ∆∑¢µÁ∞…</a>
+                        </li>
+                        <li>
+                            <span class="icon icon-5"></span>
+                            <a target="_blank" class="zijinliu">¥ÛÃ∆∑¢µÁ◊ Ω¡˜</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="zhengu_link" style="display:none;">
+                    <ul class="clearflaot">
+                        <li class="uli zhuli"><a href="#">÷˜¡¶</a></li><li class="uli yuqa"><a href="#">”ﬂ«È</a></li><li class="uli qushi"><a href="#">«˜ ∆</a></li><li class="uli zijin"><a href="#">◊ Ω</a></li><li class="jiazhi"><a href="#">º€÷µ</a></li>
+                    </ul>
+
+                </div>
+
+                 </div>
+
+                <!--œ‡πÿπ…∆±∫Õ∞ÂøÈ-->
+                <div class="be-stock-block clearflaot">
+                    <div class="be-stock">
+                        <div class="be-title">
+                            <span>œ‡πÿπ…∆±</span>
+                        </div>
+                        <ul class="clearflaot">
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="be-block">
+                        <div class="be-title">
+                            <span>œ‡πÿ∞ÂøÈ</span>
+                        </div>
+                        <ul class="clearflaot">
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+                <!--∏ˆπ… ¡–±Ì-->
+                <div class="module module-share-list">
+	<h3>
+		<a>œ‡πÿ∏ˆπ…––«È</a>
+	</h3>
+	<div class="share-list">
+		<table cellpadding="0" cellspacing="0" border="0">
+			<thead>
+				<tr>
+					<td>¥˙¬Î</td>
+					<td>√˚≥∆</td>
+					<td> –≥°</td>
+					<td>◊Ó–¬º€</td>
+					<td>’«µ¯∂Ó</td>
+					<td>’«µ¯∑˘</td>
+					<td>
+						<div>≥…Ωª¡ø</div>
+						<div>£® ÷£©</div>
+					</td>
+					<td width="150">œ‡πÿ</td>
+				</tr>
+			</thead>
+			<tbody>
+				
+			</tbody>
+		</table>
+		<div class="more">
+			<a href="http://quote.eastmoney.com/center/">≤Èø¥∏¸∂‡œ‡πÿ∏ˆπ…°∑</a>
+		</div>
+	</div>
+</div>
+
+
+                <!--∞ÂøÈ-->
+                <div class="module module-block">
+	
+	<h3>
+		<a>œ‡πÿ∞ÂøÈ</a>
+	</h3>
+	
+	<div class="title clearflaot">
+		<div>
+			<h3></h3>
+			<span></span>
+		</div>
+		<label> </label>
+	</div>
+	
+	<div class="block-chatrs clearflaot">
+		<div class="block-chatr block-chatr-1">
+			<ul class="tabs-2 clearflaot">
+				<li class="tabs-act">∑÷ ±</li>
+				<li class="">»’K</li>
+			</ul>
+			<div class="tabs-2-charts">
+				<a>
+					<img src="" />
+				</a>
+				<a>
+					<img src="" />
+				</a>
+			</div>
+		</div>
+		
+		<div class="block-chatr block-chatr-2">
+			<ul class="tabs-2 clearflaot">
+				<li class="tabs-act">≈Ã÷–◊ Ω¡˜</li>
+				<li>
+					<a href="">≈Ã∫Û◊ Ω¡˜</a>
+				</li>
+			</ul>
+			<div class="tabs-2-charts">
+				<a>
+					<img src="" />
+				</a>
+				<a></a>
+			</div>
+		</div>
+		
+		<div class="infolist">
+			<ul>
+				<li>
+					<label>ΩÒø™£∫</label>
+					<span></span>
+				</li>
+				<li>
+					<label>◊Ó∏ﬂ£∫</label>
+					<span></span>
+				</li>
+				<li>
+					<label>ªª ÷£∫</label>
+					<span></span>
+				</li>
+				<li>
+					<label>≥…Ωª¡ø£∫</label>
+					<span></span>
+				</li>
+				<li>
+					<label>¡˜Õ® –÷µ£∫</label>
+					<span></span>
+				</li>
+				<li>
+					<label>◊Ú ’£∫</label>
+					<span></span>
+				</li>
+				<li>
+					<label>◊ÓµÕ£∫</label>
+					<span></span>
+				</li>
+				<li>
+					<label>≥…Ωª∂Ó£∫</label>
+					<span></span>
+				</li>
+			</ul>
+		</div>	
+		
+		
+	</div>
+	
+	<div class="title xgggt clearflaot">
+		<div>
+			<h3>œ‡πÿ∏ˆπ…</h3>
+			<span></span>
+		</div>
+		<label>
+			<label>…œ’«º“ ˝</label>
+			<span class="sz c-up"></span>
+			<label>œ¬µ¯º“ ˝</label>
+			<span class="xd c-down"></span>
+			<label>¡Ï’«π…∆±</label>
+			<a></a>     
+			<span class="lz"></span>
+			<img />
+		</label>
+	</div>
+	
+	<div class="xggg">
+		<table cellpadding="0" cellspacing="0" border="0">
+			<thead>
+				<tr>
+					<td>¥˙¬Î</td>
+					<td>√˚≥∆</td>
+					<td>µ±«∞º€</td>
+					<td>’«µ¯∑˘</td>
+					<td>
+						<div>◊ Ωæª¡˜»Î</div>
+						<div>£®ÕÚ£©</div>
+					</td>
+					<td>ªª ÷¬ </td>
+					<td>œ‡πÿ</td>
+				</tr>
+			</thead>
+			<tbody>
+				
+			</tbody>
+		</table>
+		<div class="more">
+			<a href=""></a>
+		</div>
+	</div>
+	
+	<div class="other-block">
+		<label>∆‰À˚œ‡πÿ∞ÂøÈ:</label>
+	</div>
+	
+</div>
+
+
+                <!--π…∂´œ‡πÿ ˝æ›-->
+                <div class="module module-shareholder-data">
+	
+	<h3>
+		<a>π…∂´œ‡πÿ ˝æ›</a>
+	</h3>
+	
+	<div class="shareholder-analyze">
+		<h4>
+			<a>π…∂´∑÷Œˆ</a>
+		</h4>
+		<p></p>
+	</div>
+	
+	<div class="sa-table">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<thead>
+				<tr>
+					<td rowspan="2">π…∂´√˚≥∆</td>
+					<td rowspan="2">
+						<div>π…∂´</div>
+						<div>¿‡–Õ</div>
+					</td>
+					<td rowspan="2">π…∆±¥˙¬Î</td>
+					<td rowspan="2">π…∆±ºÚ≥∆</td>
+					<td rowspan="2">œ‡πÿ</td>
+					<td rowspan="2">±®∏Ê∆⁄</td>
+					<td colspan="4">∆⁄ƒ©≥÷π…</td>
+					<td rowspan="2">π´∏Ê»’</td>
+				</tr>
+				<tr>
+					<td>
+						<div> ˝¡ø</div>
+						<div>£®ÕÚπ…£©</div>
+					</td>
+					<td>
+						<div> ˝¡ø±‰ªØ</div>
+						<div>£®ÕÚπ…£©</div>
+					</td>
+					<td>
+						<div>≥÷π…</div>
+						<div>±‰∂Ø</div>
+					</td>
+					<td>
+						<div>¡˜Õ® –÷µ</div>
+						<div>£®ÕÚ‘™£©</div>
+					</td>
+				</tr>
+			</thead>
+			
+			<tbody>
+				<tr>
+					<td>∑Îæ¸</td>
+					<td>∏ˆ»À</td>
+					<td>xxxxxx</td>
+					<td>ÃÏ¡˙ºØÕ≈</td>
+					<td>œÍœ∏</td>
+					<td>±®∏Ê∆⁄</td>
+					<td>1700</td>
+					<td>0.00</td>
+					<td>≤ª±‰</td>
+					<td>3654</td>
+					<td>05-26</td>
+				</tr>
+			</tbody>
+			
+			<tfoot>
+				<tr>
+					<td colspan="11">
+						<a target="_blank" href="http://data.eastmoney.com/gdfx/HoldingDetail.aspx">µ„ª˜≤Èø¥»´≤ø>></a>
+					</td>
+				</tr>
+			</tfoot>
+			
+		</table>
+		
+		
+	</div>
+	
+</div>
+
+
+                <!--∞¢¿≠∂°-->
+                <div class="module module-alading" >
+	<div class="ltitle"></div>
+	<div class="atitle"></div>
+	<div class="adesc"></div>
+	<div class="atable"></div>
+	<div class="amore"></div>
+</div>
+
+
+                <!--œ‡πÿ–≈œ¢-->
+                <div class="module module-correlation-info">
+
+    <h3>œ‡πÿ–≈œ¢</h3>
+
+   
+
+    <!---œ‡πÿ»ÀŒÔ----->
+    <div class="newsitmm renwu">
+        <a class="title-icon">
+            <img class="huati-name" src="/Content/img/renwu.png">
+        </a>
+        <div class="content">
+            <div class="zttitle">
+                <a class="cotitle"></a>
+                <p></p>
+            </div>
+            <div style="clear:both"></div>
+            <div class="renwudesc">
+                <div class="nowadays">
+                    <p>œ÷»Œ÷∞£∫</p>
+                </div>
+
+                <div style="clear:both"></div>
+                <div class="renwucontent">
+                    <a class="jianjie">°æºÚΩÈ°ø</a>
+                    <span></span>
+                </div>
+            </div>
+            <div class="relationpicture" style="position:relative;">
+                <p class="searchName"></p>
+                <div>
+                    <div id="jsmind_container2"></div>
+                </div>
+            </div>
+            <div class="morerelation">
+
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <div class="othersrenwu">
+            <span>∆‰À˚œ‡πÿ»ÀŒÔ£∫</span>
+            <p></p>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+    <!----œ‡πÿª˙ππ------>
+
+    <div class="newsitmm jigou">
+        <a class="title-icon">
+            <img class="huati-name" src="/Content/img/jigou.png">
+        </a>
+        <div class="content">
+            <div class="zttitle">
+                <a class="cotitle"></a>
+                <p></p>
+            </div>
+            <div style="clear:both"></div>
+            <div class="renwudesc">
+                <div class="nowadays">
+                </div>
+
+                <div style="clear:both"></div>
+                <div class="renwucontent">
+                    <a class="jianjie">°æºÚΩÈ°ø</a>
+                    <span></span>
+                </div>
+            </div>
+            <div class="relationpicture" style="position:relative;">
+                <p class="searchName"></p>
+                <div>
+                    <div id="jsmind_container3"></div>
+                </div>
+            </div>
+            <div class="morerelation">
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <div class="othersrenwu">
+            <span>∆‰À˚œ‡πÿª˙ππ£∫</span>
+            <p></p>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+
+
+     <!---œ‡πÿ÷˜Ã‚----->
+    <div class="newsitmm subject" style="margin-top:20px">
+        <a class="title-icon" href="http://quote.eastmoney.com/zhuti/" target="_blank">
+            <img class="huati-name" src="/Content/img/zhuti.png">
+        </a>
+        <a class="topicname" id="subname"></a>
+        <a class="topicor" id="subor"></a>
+        <a class="represation"></a>
+        <div style="clear:both"></div>
+        <div class="subpower">
+            <p>÷˜Ã‚«˝∂Ø£∫<span></span></p>
+        </div>
+        <div class="options">
+            <p>’«µ¯º“ ˝:</p>
+            <div class="zhangbody">
+                <div class="inbody">
+                    <div class="top">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="selfselect" style="display: block;">
+            <table class="secontent" border="1">
+                <thead>
+                    <tr>
+                        <th>
+                            <span class="mystocktitle">π…∆±</span>
+                        </th>
+                        <th>œ‡πÿ</th>
+                        <th>––«È</th>
+                        <th>»Î—°¿Ì”…</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+                <tfoot>
+                    <tr>
+                        <td id="tablemore">
+                            <a target="_blank">∏¸∂‡>></a>
+                        </td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+        <div style="clear:both"></div>
+        <div class="relationtopic">
+        </div>
+        <div style="clear:both"></div>
+        <div class="relationsubject">
+            <span>≥µœ‡πÿµƒ÷˜Ã‚£∫</span>
+            <div>
+            </div>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+    <!---œ‡πÿ◊®Ã‚----->
+    <div class="newsitmm topic">
+        <a class="title-icon" href="http://quote.eastmoney.com/zhuti/" target="_blank">
+            <img class="huati-name" src="/Content/img/zhuti.png">
+        </a>
+        <a class="topicname" id="topicname"></a>
+        <div class="topicor">◊®Ã‚</div>
+        <div style="clear:both"></div>
+        <div class="topicredu"></div>
+        <div class="topiccontent">
+            <div class="xgzhuti" style="font-size:14px;margin-top: 15px;color:#474747;">œ‡πÿ÷˜Ã‚</div>
+            <div class="content_nav_right">
+                <div class="nav_clude">
+                </div>
+            </div>
+
+        </div>
+        <div class="relationtopic">
+        </div>
+        <div style="clear:both"></div>
+        <div class="relationsubject">
+            <span></span>
+            <div>
+            </div>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+
+
+    <div class="newsitme huati" style="margin-top:20px;"></div>
+
+    <div class="newsitme zhuanti">
+        <a class="title-icon">
+            <img src="/Content/img/zhuanti.png">
+        </a>
+        <div class="content">
+            <div class="zttitle">
+                <a></a>
+            </div>
+            <div class="desc"></div>
+            <div class="imgcontent clearflaot">
+                <img src="">
+                <ul>
+                    <li style="display: none;"></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="newsitem ticai">
+        <a class="title-icon">
+            <img src="/Content/img/ticai.png">
+        </a>
+        <div class="tccontent">
+
+        </div>
+    </div>
+
+    <div class="other-huati">
+        <div class="huatis">
+            <div class="huati-item gonggao"></div>
+
+            <div class="huati-item yanbao"></div>
+
+            <div class="huati-item jigoudianyan"></div>
+
+            <div class="huati-item zixun"></div>
+
+            <div class="huati-item huati-author caifuhao"></div>
+
+            <div class="huati-item guba"></div>
+
+            <div class="huati-item wendongmi"></div>
+
+            <div class="huati-item xuanshangwen"></div>
+
+            <div class="huati-item huati-author boke"></div>
+        </div>
+
+    </div>
+
+</div>
+
+
+                <!--–¬Œ≈¡–±Ì-->
+                <div class="module module-news-list">
+	<div class="newsitme huati"></div>
+	<div class="newsitme gongao"></div>
+	<div class="newsitme yanbao"></div>
+	<div class="newsitme zixun"></div>
+	<div class="newsitme caofuhao"></div>
+	<div class="newsitme guba"></div>
+	<div class="newsitme wendongmi"></div>
+	<div class="newsitme boke"></div>
+</div>
+
+
+                <!--œ‡πÿÀ—À˜-->
+                <div class="module module-correlation-search">
+	<h3>œ‡πÿÀ—À˜</h3>
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+
+            </div>
+
+            <!--”“≤‡ƒ⁄»›-->
+            <div class="corr-right">
+                
+<div class="hot-search clearflaot">
+	<div class="cg-title">
+		<h4>
+			<label>ΩÒ»’»»À—</label>
+			<img src="/Content/img/hot.png" />
+		</h4>
+	</div>
+	<ul></ul>
+	<ul></ul>
+</div>
+
+<div class="lzgn">
+	<div class="cg-title">
+		<h4>¡Ï’«∏≈ƒÓ</h4>
+	</div>
+	<div class="lzgn-list">
+		<div class="lzgn-head"> 
+			<label>&nbsp;</label>
+			<span>√˚≥∆</span>
+			<span>’«µ¯∑˘</span>
+			<span>¡Ï’«π…</span>
+		</div>
+	</div>
+</div>
+
+
+<div class="sjxg" style="display: none;">
+    <div class="cg-title">
+        <h4> ˝æ›—°π…</h4>
+    </div>
+    <div class="sjxg-list clearfloat">
+    </div>
+</div>
+
+
+<div class="corr-search">
+	<div class="cg-title">
+		<h4>œ‡πÿÀ—À˜</h4>
+	</div>
+	<ul></ul>
+</div>
+
+<div class="corr-guba">
+	<div class="cg-title">
+		<h4>œ‡πÿπ…∞…</h4>
+		<div class="switch icon-show4">’πø™</div>
+	</div>
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+
+<div class="corr-caifuhao r-caifuhao">
+	<div class="cg-title">
+		<h4>≤∆∏ª∫≈</h4>
+		<a href="">∏¸∂‡</a>						
+	</div>
+	
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+<div class="corr-caifuhao corr-bayou ">
+	<div class="cg-title">
+		<h4>∞…”—</h4>
+		<a href="">∏¸∂‡</a>						
+	</div>
+	
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+<div class="corr-tzzh">
+	<div class="cg-title">
+		<h4>Õ∂◊ ◊È∫œ</h4>
+		<a href="">∏¸∂‡</a>						
+	</div>
+	
+	<div class="manager">
+		<label>
+			<a></a>
+		</label>
+		<span></span>
+	</div>
+	
+	<div class="day-data">
+		<div class="left">
+			<div>
+				<label>◊‹ ’“Ê£∫</label>
+				<span class="c-up"></span>
+			</div>
+			<p>◊‹ ’“Ê’Ω §¡À<span></span>µƒ◊È∫œ</p>
+		</div>
+		<div class="right">
+			<ul>
+				<li>
+					<label>æª÷µ:</label>
+					<span class="jz"></span>
+				</li>
+				<li>
+					<label>”Øø˜±»:</label>
+					<span class="c-up"></span>
+					<span>”Ø</span>
+					<span class="c-down"></span>
+					<span>ø˜</span>
+				</li>
+				<li>
+					<label> §¬ :</label>
+					<span class="sl"></span>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+            </div>
+
+        </div>
+
+        <!--∑÷“≥-->
+        <div class="page-group">
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+
+    </div>
+
+    <div class="footer">
+    <div class="footer-iframe" style="margin: 0 auto;overflow: hidden;width: 1216px;">
+        <iframe src="http://emres.dfcfw.com/public/footer-1200-iframe.html" frameborder="0" width="1216" height="356" style="overflow: hidden;"></iframe>
+    </div>
+</div>
+
+</body>
+
+<!--µ◊≤ø“µŒÒJS-->
+<script src="http://emres.dfcfw.com/public/js/topnav.js" type="text/javascript"></script>
+<script type="text/javascript" src="/Content/js/lib/jquery.min.js"></script>
+<script type="text/javascript" src="/Content/js/lib/lodash.min.js"></script>
+<script src="//emcharts.dfcfw.com/suggest/stocksuggest2017.min.js"></script>
+<script type="text/javascript" src="/Content/js/index.min.js?__v=3.3.17"></script>
+<script>
+
+    var search_url, searchApi_url;
+        try {
+            search_url = "http://api.so.eastmoney.com/bussiness/";
+            searchApi_url = "http://api.so.eastmoney.com/";
+        } catch (e) {
+
+        }
+
+</script>
+<script type="text/javascript" src="/Content/js/lib/emcharttime.js"></script>
+<script>
+    var gubasearch_url = "http://api.so.eastmoney.com/api/Info/Search?type=8&token=32A8A21716361A5A387B0D85259A0037&and8=Term%2fRelatedCode%2f{input}%2ftrue&returnfields8=Url,ShortName&pageIndex8=1&pageSize8=10";
+    var search = window.spage.search;
+    new search();
+</script>
+
+<!--µ◊≤øÕ≥º∆JS-->
+<script src="http://emcharts.dfcfw.com/newsts/newsts.min.js"></script>
+<script type="text/javascript" src="http://emcharts.dfcfw.com/usercollect/usercollect.min.js" charset="utf-8"></script>
+
+<script type="text/javascript" charset="UTF-8">
+    var emtj_isUpload = 1;
+    var emtj_pageId = 118000300904;
+    var emtj_logSet = "1111111111";
+    var emtj_sampleRate = 1;
+</script>
+<script type="text/javascript" src="https://bdstatics.eastmoney.com/web/prd/jump_tracker.js" charset="UTF-8"></script>
+<!DOCTYPE html>
+<html>
+<head>
+    <!--Õ∑≤øcss metaµ»±Í«©-->
+    <meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<title>À—À˜Ω·π˚</title>
+<link rel="stylesheet" href="/Content/css/reset.css?__v=3.3.3" />
+<link rel="stylesheet" href="/Content/css/s.css?__v=3.3.3" />
+<base target="_blank" />
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?e834f0bcb11ce14253b9eba75492b597";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+
+<body>
+
+    <div class="header">
+	<div class="excursion">
+		<div class="search clearflaot">
+			<a class="logo" href="http://www.eastmoney.com">
+				<img src="/Content/img/logo-124.png" />
+			</a>
+			<div class="search-input clearflaot">
+				<form action="">
+                	<input type="text" value="600023" id="searchSuggest" />
+				</form>
+				<button>À— À˜</button>
+			</div>
+			<div class="keywords" id="keywords">
+				<ul></ul>
+			</div>
+		</div>
+	</div>
+		
+	<div class="ouher">
+		<a href="http://www.eastmoney.com/">∂´∑Ω≤∆∏ªÕ¯</a>|
+		<a href="/">À—À˜ ◊“≥</a>
+	</div>
+</div>
+
+
+    <div class="container">
+
+        <div class="types">
+    <ul class="clearflaot">
+        <li class="web">
+            <a target="_self">Õ¯“≥</a>
+        </li>
+        <li class="quote">
+            <a target="_self">––«È</a>
+        </li>
+        <li class="zixun">
+            <a target="_self">◊ —∂</a>
+        </li>
+        <li class="gonggao">
+            <a target="_self">π´∏Ê</a>
+        </li>
+        <li class="yanbao">
+            <a target="_self">—–±®</a>
+        </li>
+        <li class="caifuhaowenzhang">
+            <a target="_self">≤∆∏ª∫≈Œƒ’¬</a>
+        </li>
+        <li class="guba">
+            <a target="_self">π…∞…</a>
+        </li>
+        <li class="wendongmi">
+            <a target="_self">Œ ∂≠√ÿ</a>
+        </li>
+        <li class="xuanshangwen">
+            <a target="_self">–¸…ÕŒ </a>
+        </li>
+        <li class="boke">
+            <a target="_self">≤©øÕ</a>
+        </li>
+        <li class="zuhe">
+            <a target="_self">◊È∫œ</a>
+        </li>
+        <!-- <li class="caifushenghuo">
+        <a target="_self">≤∆∏ª…˙ªÓ</a>
+    </li> -->
+        <li class="caifuhao">
+            <a target="_self">≤∆∏ª∫≈</a>
+        </li>
+        <li class="ibaike">
+            <a target="_self">∞Ÿø∆</a>
+        </li>
+    </ul>
+</div>
+
+        <div class="main clearflaot">
+
+            <div class="search-result" style="display: none;">
+	<div class="count">œ‡πÿΩ·π˚‘º0∏ˆ</div>
+	<div class="correlation">
+		<img src="/Content/img/icon-em.png" />
+		<span class="possible">“‘œ¬Œ™ƒ˙œ‘ æ<span></span>µƒÀ—À˜Ω·π˚°£ </span>
+		<span class="still"></span>
+		<a></a>
+	</div>
+</div>
+
+
+            <div class="modules">
+                <!--√ª”–À—µΩƒ⁄»›-->
+                <div class="module module-empty ">
+	<h3 class="clearflaot">
+		±ß«∏£¨’“≤ªµΩ"<em>000</em>"œ‡πÿ–≈œ¢
+	</h3>
+	<p>ƒ˙ø…“‘≥¢ ‘£∫</p>
+	<ul>
+		<li>ºÏ≤È ‰»Îµƒπÿº¸¥  «∑Ò”–ŒÛ</li>
+		<li>÷ÿ–¬ ‰»Î–¬µƒπÿº¸¥ </li>
+	</ul>
+	
+	<h2>»•Õ¯“≥À—À˜£∫ <a>1111</a></h2>
+	
+</div>
+
+
+                <!--—°π…∆˜-->
+                <div class="module module-wen">
+
+</div>
+
+                <!--∞Ÿø∆-->
+                 <!--∞Ÿø∆-->
+<div class="module module-baike">
+    <div class="amodule">
+        <h3>
+            <a></a>
+        </h3>
+        <p>
+        </p>
+        <div class="comy_jianjie">
+
+        </div>
+
+    </div>
+
+
+    <div class="other_info">
+        <div class="left"><a href="#"></a>&nbsp;&nbsp;<a href="#"></a></div>
+        <div class="right"><a href="#"></a></div>
+    </div>
+</div>
+
+
+                <!--æ´»∑∆•≈‰µƒƒ≥“ª∏ˆ∏ˆπ…-->
+                 <div class="module module-share">
+                <div class="title clearflaot">
+                    <a>
+                        <h3> </h3>
+                        <span> </span>
+                    </a>
+                    <a href="">
+                        <img src="/Content/img/jshq.png">
+                    </a>
+                    <label> </label>
+                </div>
+
+                <div class="main-data">
+                    <div class="priceinfo">
+                        <span class="price"></span>
+                        <span class="direction"></span>
+                        <span class="amount"></span>
+                        <span class="range"></span>
+                        <label class="rong">»⁄</label>
+                        <label class="hgt"></label>
+                        <label class="jyz"></label>
+                    </div>
+                    <div class="otherinfo">
+                        <table>
+                            <tr>
+                                <td>
+                                    <label>≥…Ωª¡ø£∫</label>
+                                    <span></span>
+                                </td>
+                                 <td>
+                                    <label>ªª ÷¬ £∫</label>
+                                    <span></span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <label> –”Ø¬ £∫</label>
+                                    <span></span>
+                                </td>
+                                <td>
+                                    <label>◊‹ –÷µ£∫</label>
+                                    <span></span>
+                                </td>
+
+                            </tr>
+                           
+                            
+                        </table>
+                    </div>
+                </div>
+
+               <div class="main_gu">
+
+                    <div class="emcharts-4">
+                        <div class="tabs4">
+                            <ul class="clearflaot">
+                                <li class="chart1 active">∑÷ ±</li>
+                                <li class="chart2">»’K</li>
+                                <li class="chart3">÷‹K</li>
+                                <li class="chart4">‘¬K</li>
+                            </ul>
+                            <div class="fullbun" style="display:none;">
+                                    <i></i>
+                                    <span>»´∆¡</span>
+                            </div>
+                        </div>
+
+                        <a href="">
+                            <span></span>
+                            <div class="emc-container">
+                                <div class="emsc-4">
+                                    <div id="emsc-1-time"></div>
+                                    <div id="emsc-2-day"></div>
+                                    <div id="emsc-3-week"></div>
+                                    <div id="emsc-4-month"></div>
+                                </div>
+                                <div class="fullbun">
+                                    <i></i>
+                                    <span>»´∆¡</span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="zhengu" style="display:none;">
+                        <div class="main_content">
+                            <div class="pingfen">◊€∫œ∆¿∑÷ <span>--</span></div>
+                            <div class="biaoxian">ΩÒ»’±Ìœ÷ <span>--</span></div>
+                            <div class="dabai">¥Ú∞‹¡À <span>--</span> µƒπ…∆±</div>
+                            <div class="shangzhang">¥Œ»’…œ’«∏≈¬  <span>--</span></div>
+                            <p class="commit">--</p>
+                            <div class="shengming" title="±æπ¶ƒ‹÷–µƒƒ⁄»›æ˘Ωˆπ©≤Œøº£¨Ω®“ÈÕ∂◊ ’ﬂ∏˘æ›◊‘…ÌÕ∂◊ ∑Á∏ÒΩ¯––…∏—°£¨≤¢∫œ¿Ìøÿ÷∆∑Áœ’°£">√‚‘…˘√˜ <span class="wenhao">?</span> <a class="xiangqing" href="#">œÍ«È</a></div>
+
+                        </div>
+                        
+
+                    </div>
+
+                </div>
+
+                <div class="links">
+               
+                <div class="otherlink">
+                    <ul class="clearflaot">
+                        <li>
+                            <span class="icon icon-1"></span>
+                            <a target="_blank" class="hangq">≤È—Ø∏√π…––«È</a>
+                        </li>
+                        <li>
+                            <span class="icon icon-2"></span>
+                            <a target="_blank" class="zijin"> µ ±◊ Ω¡˜œÚ</a>
+                        </li>
+                        <li>
+                            <span class="icon icon-3"></span>
+                            <a target="_blank" class="shuju">…Ó∂» ˝æ›Ω“√ÿ</a>
+                        </li>
+                        <li>
+                            <span class="icon icon-4"></span>
+                            <a target="_blank" class="baba">Ω¯»Î¥ÛÃ∆∑¢µÁ∞…</a>
+                        </li>
+                        <li>
+                            <span class="icon icon-5"></span>
+                            <a target="_blank" class="zijinliu">¥ÛÃ∆∑¢µÁ◊ Ω¡˜</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="zhengu_link" style="display:none;">
+                    <ul class="clearflaot">
+                        <li class="uli zhuli"><a href="#">÷˜¡¶</a></li><li class="uli yuqa"><a href="#">”ﬂ«È</a></li><li class="uli qushi"><a href="#">«˜ ∆</a></li><li class="uli zijin"><a href="#">◊ Ω</a></li><li class="jiazhi"><a href="#">º€÷µ</a></li>
+                    </ul>
+
+                </div>
+
+                 </div>
+
+                <!--œ‡πÿπ…∆±∫Õ∞ÂøÈ-->
+                <div class="be-stock-block clearflaot">
+                    <div class="be-stock">
+                        <div class="be-title">
+                            <span>œ‡πÿπ…∆±</span>
+                        </div>
+                        <ul class="clearflaot">
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="be-block">
+                        <div class="be-title">
+                            <span>œ‡πÿ∞ÂøÈ</span>
+                        </div>
+                        <ul class="clearflaot">
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+                <!--∏ˆπ… ¡–±Ì-->
+                <div class="module module-share-list">
+	<h3>
+		<a>œ‡πÿ∏ˆπ…––«È</a>
+	</h3>
+	<div class="share-list">
+		<table cellpadding="0" cellspacing="0" border="0">
+			<thead>
+				<tr>
+					<td>¥˙¬Î</td>
+					<td>√˚≥∆</td>
+					<td> –≥°</td>
+					<td>◊Ó–¬º€</td>
+					<td>’«µ¯∂Ó</td>
+					<td>’«µ¯∑˘</td>
+					<td>
+						<div>≥…Ωª¡ø</div>
+						<div>£® ÷£©</div>
+					</td>
+					<td width="150">œ‡πÿ</td>
+				</tr>
+			</thead>
+			<tbody>
+				
+			</tbody>
+		</table>
+		<div class="more">
+			<a href="http://quote.eastmoney.com/center/">≤Èø¥∏¸∂‡œ‡πÿ∏ˆπ…°∑</a>
+		</div>
+	</div>
+</div>
+
+
+                <!--∞ÂøÈ-->
+                <div class="module module-block">
+	
+	<h3>
+		<a>œ‡πÿ∞ÂøÈ</a>
+	</h3>
+	
+	<div class="title clearflaot">
+		<div>
+			<h3></h3>
+			<span></span>
+		</div>
+		<label> </label>
+	</div>
+	
+	<div class="block-chatrs clearflaot">
+		<div class="block-chatr block-chatr-1">
+			<ul class="tabs-2 clearflaot">
+				<li class="tabs-act">∑÷ ±</li>
+				<li class="">»’K</li>
+			</ul>
+			<div class="tabs-2-charts">
+				<a>
+					<img src="" />
+				</a>
+				<a>
+					<img src="" />
+				</a>
+			</div>
+		</div>
+		
+		<div class="block-chatr block-chatr-2">
+			<ul class="tabs-2 clearflaot">
+				<li class="tabs-act">≈Ã÷–◊ Ω¡˜</li>
+				<li>
+					<a href="">≈Ã∫Û◊ Ω¡˜</a>
+				</li>
+			</ul>
+			<div class="tabs-2-charts">
+				<a>
+					<img src="" />
+				</a>
+				<a></a>
+			</div>
+		</div>
+		
+		<div class="infolist">
+			<ul>
+				<li>
+					<label>ΩÒø™£∫</label>
+					<span></span>
+				</li>
+				<li>
+					<label>◊Ó∏ﬂ£∫</label>
+					<span></span>
+				</li>
+				<li>
+					<label>ªª ÷£∫</label>
+					<span></span>
+				</li>
+				<li>
+					<label>≥…Ωª¡ø£∫</label>
+					<span></span>
+				</li>
+				<li>
+					<label>¡˜Õ® –÷µ£∫</label>
+					<span></span>
+				</li>
+				<li>
+					<label>◊Ú ’£∫</label>
+					<span></span>
+				</li>
+				<li>
+					<label>◊ÓµÕ£∫</label>
+					<span></span>
+				</li>
+				<li>
+					<label>≥…Ωª∂Ó£∫</label>
+					<span></span>
+				</li>
+			</ul>
+		</div>	
+		
+		
+	</div>
+	
+	<div class="title xgggt clearflaot">
+		<div>
+			<h3>œ‡πÿ∏ˆπ…</h3>
+			<span></span>
+		</div>
+		<label>
+			<label>…œ’«º“ ˝</label>
+			<span class="sz c-up"></span>
+			<label>œ¬µ¯º“ ˝</label>
+			<span class="xd c-down"></span>
+			<label>¡Ï’«π…∆±</label>
+			<a></a>     
+			<span class="lz"></span>
+			<img />
+		</label>
+	</div>
+	
+	<div class="xggg">
+		<table cellpadding="0" cellspacing="0" border="0">
+			<thead>
+				<tr>
+					<td>¥˙¬Î</td>
+					<td>√˚≥∆</td>
+					<td>µ±«∞º€</td>
+					<td>’«µ¯∑˘</td>
+					<td>
+						<div>◊ Ωæª¡˜»Î</div>
+						<div>£®ÕÚ£©</div>
+					</td>
+					<td>ªª ÷¬ </td>
+					<td>œ‡πÿ</td>
+				</tr>
+			</thead>
+			<tbody>
+				
+			</tbody>
+		</table>
+		<div class="more">
+			<a href=""></a>
+		</div>
+	</div>
+	
+	<div class="other-block">
+		<label>∆‰À˚œ‡πÿ∞ÂøÈ:</label>
+	</div>
+	
+</div>
+
+
+                <!--π…∂´œ‡πÿ ˝æ›-->
+                <div class="module module-shareholder-data">
+	
+	<h3>
+		<a>π…∂´œ‡πÿ ˝æ›</a>
+	</h3>
+	
+	<div class="shareholder-analyze">
+		<h4>
+			<a>π…∂´∑÷Œˆ</a>
+		</h4>
+		<p></p>
+	</div>
+	
+	<div class="sa-table">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<thead>
+				<tr>
+					<td rowspan="2">π…∂´√˚≥∆</td>
+					<td rowspan="2">
+						<div>π…∂´</div>
+						<div>¿‡–Õ</div>
+					</td>
+					<td rowspan="2">π…∆±¥˙¬Î</td>
+					<td rowspan="2">π…∆±ºÚ≥∆</td>
+					<td rowspan="2">œ‡πÿ</td>
+					<td rowspan="2">±®∏Ê∆⁄</td>
+					<td colspan="4">∆⁄ƒ©≥÷π…</td>
+					<td rowspan="2">π´∏Ê»’</td>
+				</tr>
+				<tr>
+					<td>
+						<div> ˝¡ø</div>
+						<div>£®ÕÚπ…£©</div>
+					</td>
+					<td>
+						<div> ˝¡ø±‰ªØ</div>
+						<div>£®ÕÚπ…£©</div>
+					</td>
+					<td>
+						<div>≥÷π…</div>
+						<div>±‰∂Ø</div>
+					</td>
+					<td>
+						<div>¡˜Õ® –÷µ</div>
+						<div>£®ÕÚ‘™£©</div>
+					</td>
+				</tr>
+			</thead>
+			
+			<tbody>
+				<tr>
+					<td>∑Îæ¸</td>
+					<td>∏ˆ»À</td>
+					<td>xxxxxx</td>
+					<td>ÃÏ¡˙ºØÕ≈</td>
+					<td>œÍœ∏</td>
+					<td>±®∏Ê∆⁄</td>
+					<td>1700</td>
+					<td>0.00</td>
+					<td>≤ª±‰</td>
+					<td>3654</td>
+					<td>05-26</td>
+				</tr>
+			</tbody>
+			
+			<tfoot>
+				<tr>
+					<td colspan="11">
+						<a target="_blank" href="http://data.eastmoney.com/gdfx/HoldingDetail.aspx">µ„ª˜≤Èø¥»´≤ø>></a>
+					</td>
+				</tr>
+			</tfoot>
+			
+		</table>
+		
+		
+	</div>
+	
+</div>
+
+
+                <!--∞¢¿≠∂°-->
+                <div class="module module-alading" >
+	<div class="ltitle"></div>
+	<div class="atitle"></div>
+	<div class="adesc"></div>
+	<div class="atable"></div>
+	<div class="amore"></div>
+</div>
+
+
+                <!--œ‡πÿ–≈œ¢-->
+                <div class="module module-correlation-info">
+
+    <h3>œ‡πÿ–≈œ¢</h3>
+
+   
+
+    <!---œ‡πÿ»ÀŒÔ----->
+    <div class="newsitmm renwu">
+        <a class="title-icon">
+            <img class="huati-name" src="/Content/img/renwu.png">
+        </a>
+        <div class="content">
+            <div class="zttitle">
+                <a class="cotitle"></a>
+                <p></p>
+            </div>
+            <div style="clear:both"></div>
+            <div class="renwudesc">
+                <div class="nowadays">
+                    <p>œ÷»Œ÷∞£∫</p>
+                </div>
+
+                <div style="clear:both"></div>
+                <div class="renwucontent">
+                    <a class="jianjie">°æºÚΩÈ°ø</a>
+                    <span></span>
+                </div>
+            </div>
+            <div class="relationpicture" style="position:relative;">
+                <p class="searchName"></p>
+                <div>
+                    <div id="jsmind_container2"></div>
+                </div>
+            </div>
+            <div class="morerelation">
+
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <div class="othersrenwu">
+            <span>∆‰À˚œ‡πÿ»ÀŒÔ£∫</span>
+            <p></p>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+    <!----œ‡πÿª˙ππ------>
+
+    <div class="newsitmm jigou">
+        <a class="title-icon">
+            <img class="huati-name" src="/Content/img/jigou.png">
+        </a>
+        <div class="content">
+            <div class="zttitle">
+                <a class="cotitle"></a>
+                <p></p>
+            </div>
+            <div style="clear:both"></div>
+            <div class="renwudesc">
+                <div class="nowadays">
+                </div>
+
+                <div style="clear:both"></div>
+                <div class="renwucontent">
+                    <a class="jianjie">°æºÚΩÈ°ø</a>
+                    <span></span>
+                </div>
+            </div>
+            <div class="relationpicture" style="position:relative;">
+                <p class="searchName"></p>
+                <div>
+                    <div id="jsmind_container3"></div>
+                </div>
+            </div>
+            <div class="morerelation">
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <div class="othersrenwu">
+            <span>∆‰À˚œ‡πÿª˙ππ£∫</span>
+            <p></p>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+
+
+     <!---œ‡πÿ÷˜Ã‚----->
+    <div class="newsitmm subject" style="margin-top:20px">
+        <a class="title-icon" href="http://quote.eastmoney.com/zhuti/" target="_blank">
+            <img class="huati-name" src="/Content/img/zhuti.png">
+        </a>
+        <a class="topicname" id="subname"></a>
+        <a class="topicor" id="subor"></a>
+        <a class="represation"></a>
+        <div style="clear:both"></div>
+        <div class="subpower">
+            <p>÷˜Ã‚«˝∂Ø£∫<span></span></p>
+        </div>
+        <div class="options">
+            <p>’«µ¯º“ ˝:</p>
+            <div class="zhangbody">
+                <div class="inbody">
+                    <div class="top">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="selfselect" style="display: block;">
+            <table class="secontent" border="1">
+                <thead>
+                    <tr>
+                        <th>
+                            <span class="mystocktitle">π…∆±</span>
+                        </th>
+                        <th>œ‡πÿ</th>
+                        <th>––«È</th>
+                        <th>»Î—°¿Ì”…</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+                <tfoot>
+                    <tr>
+                        <td id="tablemore">
+                            <a target="_blank">∏¸∂‡>></a>
+                        </td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+        <div style="clear:both"></div>
+        <div class="relationtopic">
+        </div>
+        <div style="clear:both"></div>
+        <div class="relationsubject">
+            <span>≥µœ‡πÿµƒ÷˜Ã‚£∫</span>
+            <div>
+            </div>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+    <!---œ‡πÿ◊®Ã‚----->
+    <div class="newsitmm topic">
+        <a class="title-icon" href="http://quote.eastmoney.com/zhuti/" target="_blank">
+            <img class="huati-name" src="/Content/img/zhuti.png">
+        </a>
+        <a class="topicname" id="topicname"></a>
+        <div class="topicor">◊®Ã‚</div>
+        <div style="clear:both"></div>
+        <div class="topicredu"></div>
+        <div class="topiccontent">
+            <div class="xgzhuti" style="font-size:14px;margin-top: 15px;color:#474747;">œ‡πÿ÷˜Ã‚</div>
+            <div class="content_nav_right">
+                <div class="nav_clude">
+                </div>
+            </div>
+
+        </div>
+        <div class="relationtopic">
+        </div>
+        <div style="clear:both"></div>
+        <div class="relationsubject">
+            <span></span>
+            <div>
+            </div>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+
+
+    <div class="newsitme huati" style="margin-top:20px;"></div>
+
+    <div class="newsitme zhuanti">
+        <a class="title-icon">
+            <img src="/Content/img/zhuanti.png">
+        </a>
+        <div class="content">
+            <div class="zttitle">
+                <a></a>
+            </div>
+            <div class="desc"></div>
+            <div class="imgcontent clearflaot">
+                <img src="">
+                <ul>
+                    <li style="display: none;"></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="newsitem ticai">
+        <a class="title-icon">
+            <img src="/Content/img/ticai.png">
+        </a>
+        <div class="tccontent">
+
+        </div>
+    </div>
+
+    <div class="other-huati">
+        <div class="huatis">
+            <div class="huati-item gonggao"></div>
+
+            <div class="huati-item yanbao"></div>
+
+            <div class="huati-item jigoudianyan"></div>
+
+            <div class="huati-item zixun"></div>
+
+            <div class="huati-item huati-author caifuhao"></div>
+
+            <div class="huati-item guba"></div>
+
+            <div class="huati-item wendongmi"></div>
+
+            <div class="huati-item xuanshangwen"></div>
+
+            <div class="huati-item huati-author boke"></div>
+        </div>
+
+    </div>
+
+</div>
+
+
+                <!--–¬Œ≈¡–±Ì-->
+                <div class="module module-news-list">
+	<div class="newsitme huati"></div>
+	<div class="newsitme gongao"></div>
+	<div class="newsitme yanbao"></div>
+	<div class="newsitme zixun"></div>
+	<div class="newsitme caofuhao"></div>
+	<div class="newsitme guba"></div>
+	<div class="newsitme wendongmi"></div>
+	<div class="newsitme boke"></div>
+</div>
+
+
+                <!--œ‡πÿÀ—À˜-->
+                <div class="module module-correlation-search">
+	<h3>œ‡πÿÀ—À˜</h3>
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+
+            </div>
+
+            <!--”“≤‡ƒ⁄»›-->
+            <div class="corr-right">
+                
+<div class="hot-search clearflaot">
+	<div class="cg-title">
+		<h4>
+			<label>ΩÒ»’»»À—</label>
+			<img src="/Content/img/hot.png" />
+		</h4>
+	</div>
+	<ul></ul>
+	<ul></ul>
+</div>
+
+<div class="lzgn">
+	<div class="cg-title">
+		<h4>¡Ï’«∏≈ƒÓ</h4>
+	</div>
+	<div class="lzgn-list">
+		<div class="lzgn-head"> 
+			<label>&nbsp;</label>
+			<span>√˚≥∆</span>
+			<span>’«µ¯∑˘</span>
+			<span>¡Ï’«π…</span>
+		</div>
+	</div>
+</div>
+
+
+<div class="sjxg" style="display: none;">
+    <div class="cg-title">
+        <h4> ˝æ›—°π…</h4>
+    </div>
+    <div class="sjxg-list clearfloat">
+    </div>
+</div>
+
+
+<div class="corr-search">
+	<div class="cg-title">
+		<h4>œ‡πÿÀ—À˜</h4>
+	</div>
+	<ul></ul>
+</div>
+
+<div class="corr-guba">
+	<div class="cg-title">
+		<h4>œ‡πÿπ…∞…</h4>
+		<div class="switch icon-show4">’πø™</div>
+	</div>
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+
+<div class="corr-caifuhao r-caifuhao">
+	<div class="cg-title">
+		<h4>≤∆∏ª∫≈</h4>
+		<a href="">∏¸∂‡</a>						
+	</div>
+	
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+<div class="corr-caifuhao corr-bayou ">
+	<div class="cg-title">
+		<h4>∞…”—</h4>
+		<a href="">∏¸∂‡</a>						
+	</div>
+	
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+<div class="corr-tzzh">
+	<div class="cg-title">
+		<h4>Õ∂◊ ◊È∫œ</h4>
+		<a href="">∏¸∂‡</a>						
+	</div>
+	
+	<div class="manager">
+		<label>
+			<a></a>
+		</label>
+		<span></span>
+	</div>
+	
+	<div class="day-data">
+		<div class="left">
+			<div>
+				<label>◊‹ ’“Ê£∫</label>
+				<span class="c-up"></span>
+			</div>
+			<p>◊‹ ’“Ê’Ω §¡À<span></span>µƒ◊È∫œ</p>
+		</div>
+		<div class="right">
+			<ul>
+				<li>
+					<label>æª÷µ:</label>
+					<span class="jz"></span>
+				</li>
+				<li>
+					<label>”Øø˜±»:</label>
+					<span class="c-up"></span>
+					<span>”Ø</span>
+					<span class="c-down"></span>
+					<span>ø˜</span>
+				</li>
+				<li>
+					<label> §¬ :</label>
+					<span class="sl"></span>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+            </div>
+
+        </div>
+
+        <!--∑÷“≥-->
+        <div class="page-group">
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+
+    </div>
+
+    <div class="footer">
+    <div class="footer-iframe" style="margin: 0 auto;overflow: hidden;width: 1216px;">
+        <iframe src="http://emres.dfcfw.com/public/footer-1200-iframe.html" frameborder="0" width="1216" height="356" style="overflow: hidden;"></iframe>
+    </div>
+</div>
+
+</body>
+
+<!--µ◊≤ø“µŒÒJS-->
+<script src="http://emres.dfcfw.com/public/js/topnav.js" type="text/javascript"></script>
+<script type="text/javascript" src="/Content/js/lib/jquery.min.js"></script>
+<script type="text/javascript" src="/Content/js/lib/lodash.min.js"></script>
+<script src="//emcharts.dfcfw.com/suggest/stocksuggest2017.min.js"></script>
+<script type="text/javascript" src="/Content/js/index.min.js?__v=3.3.17"></script>
+<script>
+
+    var search_url, searchApi_url;
+        try {
+            search_url = "http://api.so.eastmoney.com/bussiness/";
+            searchApi_url = "http://api.so.eastmoney.com/";
+        } catch (e) {
+
+        }
+
+</script>
+<script type="text/javascript" src="/Content/js/lib/emcharttime.js"></script>
+<script>
+    var gubasearch_url = "http://api.so.eastmoney.com/api/Info/Search?type=8&token=32A8A21716361A5A387B0D85259A0037&and8=Term%2fRelatedCode%2f{input}%2ftrue&returnfields8=Url,ShortName&pageIndex8=1&pageSize8=10";
+    var search = window.spage.search;
+    new search();
+</script>
+
+<!--µ◊≤øÕ≥º∆JS-->
+<script src="http://emcharts.dfcfw.com/newsts/newsts.min.js"></script>
+<script type="text/javascript" src="http://emcharts.dfcfw.com/usercollect/usercollect.min.js" charset="utf-8"></script>
+
+<script type="text/javascript" charset="UTF-8">
+    var emtj_isUpload = 1;
+    var emtj_pageId = 118000300904;
+    var emtj_logSet = "1111111111";
+    var emtj_sampleRate = 1;
+</script>
+<script type="text/javascript" src="https://bdstatics.eastmoney.com/web/prd/jump_tracker.js" charset="UTF-8"></script>
+<!DOCTYPE html>
+<html>
+<head>
+    <!--Â§¥ÈÉ®css metaÁ≠âÊ†áÁ≠æ-->
+    <meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<title>ÊêúÁ¥¢ÁªìÊûú</title>
+<link rel="stylesheet" href="/Content/css/reset.css?__v=3.3.3" />
+<link rel="stylesheet" href="/Content/css/s.css?__v=3.3.3" />
+<base target="_blank" />
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?e834f0bcb11ce14253b9eba75492b597";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+
+<body>
+
+    <div class="header">
+	<div class="excursion">
+		<div class="search clearflaot">
+			<a class="logo" href="http://www.eastmoney.com">
+				<img src="/Content/img/logo-124.png" />
+			</a>
+			<div class="search-input clearflaot">
+				<form action="">
+                	<input type="text" value="600023" id="searchSuggest" />
+				</form>
+				<button>Êêú Á¥¢</button>
+			</div>
+			<div class="keywords" id="keywords">
+				<ul></ul>
+			</div>
+		</div>
+	</div>
+		
+	<div class="ouher">
+		<a href="http://www.eastmoney.com/">‰∏úÊñπË¥¢ÂØåÁΩë</a>|
+		<a href="/">ÊêúÁ¥¢È¶ñÈ°µ</a>
+	</div>
+</div>
+
+
+    <div class="container">
+
+        <div class="types">
+    <ul class="clearflaot">
+        <li class="web">
+            <a target="_self">ÁΩëÈ°µ</a>
+        </li>
+        <li class="quote">
+            <a target="_self">Ë°åÊÉÖ</a>
+        </li>
+        <li class="zixun">
+            <a target="_self">ËµÑËÆØ</a>
+        </li>
+        <li class="gonggao">
+            <a target="_self">ÂÖ¨Âëä</a>
+        </li>
+        <li class="yanbao">
+            <a target="_self">Á†îÊä•</a>
+        </li>
+        <li class="caifuhaowenzhang">
+            <a target="_self">Ë¥¢ÂØåÂè∑ÊñáÁ´†</a>
+        </li>
+        <li class="guba">
+            <a target="_self">ËÇ°Âêß</a>
+        </li>
+        <li class="wendongmi">
+            <a target="_self">ÈóÆËë£Áßò</a>
+        </li>
+        <li class="xuanshangwen">
+            <a target="_self">ÊÇ¨ËµèÈóÆ</a>
+        </li>
+        <li class="boke">
+            <a target="_self">ÂçöÂÆ¢</a>
+        </li>
+        <li class="zuhe">
+            <a target="_self">ÁªÑÂêà</a>
+        </li>
+        <!-- <li class="caifushenghuo">
+        <a target="_self">Ë¥¢ÂØåÁîüÊ¥ª</a>
+    </li> -->
+        <li class="caifuhao">
+            <a target="_self">Ë¥¢ÂØåÂè∑</a>
+        </li>
+        <li class="ibaike">
+            <a target="_self">ÁôæÁßë</a>
+        </li>
+    </ul>
+</div>
+
+        <div class="main clearflaot">
+
+            <div class="search-result" style="display: none;">
+	<div class="count">Áõ∏ÂÖ≥ÁªìÊûúÁ∫¶0‰∏™</div>
+	<div class="correlation">
+		<img src="/Content/img/icon-em.png" />
+		<span class="possible">‰ª•‰∏ã‰∏∫ÊÇ®ÊòæÁ§∫<span></span>ÁöÑÊêúÁ¥¢ÁªìÊûú„ÄÇ </span>
+		<span class="still"></span>
+		<a></a>
+	</div>
+</div>
+
+
+            <div class="modules">
+                <!--Ê≤°ÊúâÊêúÂà∞ÂÜÖÂÆπ-->
+                <div class="module module-empty ">
+	<h3 class="clearflaot">
+		Êä±Ê≠âÔºåÊâæ‰∏çÂà∞"<em>000</em>"Áõ∏ÂÖ≥‰ø°ÊÅØ
+	</h3>
+	<p>ÊÇ®ÂèØ‰ª•Â∞ùËØïÔºö</p>
+	<ul>
+		<li>Ê£ÄÊü•ËæìÂÖ•ÁöÑÂÖ≥ÈîÆËØçÊòØÂê¶ÊúâËØØ</li>
+		<li>ÈáçÊñ∞ËæìÂÖ•Êñ∞ÁöÑÂÖ≥ÈîÆËØç</li>
+	</ul>
+	
+	<h2>ÂéªÁΩëÈ°µÊêúÁ¥¢Ôºö <a>1111</a></h2>
+	
+</div>
+
+
+                <!--ÈÄâËÇ°Âô®-->
+                <div class="module module-wen">
+
+</div>
+
+                <!--ÁôæÁßë-->
+                 <!--ÁôæÁßë-->
+<div class="module module-baike">
+    <div class="amodule">
+        <h3>
+            <a></a>
+        </h3>
+        <p>
+        </p>
+        <div class="comy_jianjie">
+
+        </div>
+
+    </div>
+
+
+    <div class="other_info">
+        <div class="left"><a href="#"></a>&nbsp;&nbsp;<a href="#"></a></div>
+        <div class="right"><a href="#"></a></div>
+    </div>
+</div>
+
+
+                <!--Á≤æÁ°ÆÂåπÈÖçÁöÑÊüê‰∏Ä‰∏™‰∏™ËÇ°-->
+                 <div class="module module-share">
+                <div class="title clearflaot">
+                    <a>
+                        <h3> </h3>
+                        <span> </span>
+                    </a>
+                    <a href="">
+                        <img src="/Content/img/jshq.png">
+                    </a>
+                    <label> </label>
+                </div>
+
+                <div class="main-data">
+                    <div class="priceinfo">
+                        <span class="price"></span>
+                        <span class="direction"></span>
+                        <span class="amount"></span>
+                        <span class="range"></span>
+                        <label class="rong">Ëûç</label>
+                        <label class="hgt"></label>
+                        <label class="jyz"></label>
+                    </div>
+                    <div class="otherinfo">
+                        <table>
+                            <tr>
+                                <td>
+                                    <label>Êàê‰∫§ÈáèÔºö</label>
+                                    <span></span>
+                                </td>
+                                 <td>
+                                    <label>Êç¢ÊâãÁéáÔºö</label>
+                                    <span></span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <label>Â∏ÇÁõàÁéáÔºö</label>
+                                    <span></span>
+                                </td>
+                                <td>
+                                    <label>ÊÄªÂ∏ÇÂÄºÔºö</label>
+                                    <span></span>
+                                </td>
+
+                            </tr>
+                           
+                            
+                        </table>
+                    </div>
+                </div>
+
+               <div class="main_gu">
+
+                    <div class="emcharts-4">
+                        <div class="tabs4">
+                            <ul class="clearflaot">
+                                <li class="chart1 active">ÂàÜÊó∂</li>
+                                <li class="chart2">Êó•K</li>
+                                <li class="chart3">Âë®K</li>
+                                <li class="chart4">ÊúàK</li>
+                            </ul>
+                            <div class="fullbun" style="display:none;">
+                                    <i></i>
+                                    <span>ÂÖ®Â±è</span>
+                            </div>
+                        </div>
+
+                        <a href="">
+                            <span></span>
+                            <div class="emc-container">
+                                <div class="emsc-4">
+                                    <div id="emsc-1-time"></div>
+                                    <div id="emsc-2-day"></div>
+                                    <div id="emsc-3-week"></div>
+                                    <div id="emsc-4-month"></div>
+                                </div>
+                                <div class="fullbun">
+                                    <i></i>
+                                    <span>ÂÖ®Â±è</span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="zhengu" style="display:none;">
+                        <div class="main_content">
+                            <div class="pingfen">ÁªºÂêàËØÑÂàÜ <span>--</span></div>
+                            <div class="biaoxian">‰ªäÊó•Ë°®Áé∞ <span>--</span></div>
+                            <div class="dabai">ÊâìË¥•‰∫Ü <span>--</span> ÁöÑËÇ°Á•®</div>
+                            <div class="shangzhang">Ê¨°Êó•‰∏äÊ∂®Ê¶ÇÁéá <span>--</span></div>
+                            <p class="commit">--</p>
+                            <div class="shengming" title="Êú¨ÂäüËÉΩ‰∏≠ÁöÑÂÜÖÂÆπÂùá‰ªÖ‰æõÂèÇËÄÉÔºåÂª∫ËÆÆÊäïËµÑËÄÖÊ†πÊçÆËá™Ë∫´ÊäïËµÑÈ£éÊ†ºËøõË°åÁ≠õÈÄâÔºåÂπ∂ÂêàÁêÜÊéßÂà∂È£éÈô©„ÄÇ">ÂÖçË¥£Â£∞Êòé <span class="wenhao">?</span> <a class="xiangqing" href="#">ËØ¶ÊÉÖ</a></div>
+
+                        </div>
+                        
+
+                    </div>
+
+                </div>
+
+                <div class="links">
+               
+                <div class="otherlink">
+                    <ul class="clearflaot">
+                        <li>
+                            <span class="icon icon-1"></span>
+                            <a target="_blank" class="hangq">Êü•ËØ¢ËØ•ËÇ°Ë°åÊÉÖ</a>
+                        </li>
+                        <li>
+                            <span class="icon icon-2"></span>
+                            <a target="_blank" class="zijin">ÂÆûÊó∂ËµÑÈáëÊµÅÂêë</a>
+                        </li>
+                        <li>
+                            <span class="icon icon-3"></span>
+                            <a target="_blank" class="shuju">Ê∑±Â∫¶Êï∞ÊçÆÊè≠Áßò</a>
+                        </li>
+                        <li>
+                            <span class="icon icon-4"></span>
+                            <a target="_blank" class="baba">ËøõÂÖ•Â§ßÂîêÂèëÁîµÂêß</a>
+                        </li>
+                        <li>
+                            <span class="icon icon-5"></span>
+                            <a target="_blank" class="zijinliu">Â§ßÂîêÂèëÁîµËµÑÈáëÊµÅ</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="zhengu_link" style="display:none;">
+                    <ul class="clearflaot">
+                        <li class="uli zhuli"><a href="#">‰∏ªÂäõ</a></li><li class="uli yuqa"><a href="#">ËàÜÊÉÖ</a></li><li class="uli qushi"><a href="#">Ë∂ãÂäø</a></li><li class="uli zijin"><a href="#">ËµÑÈáë</a></li><li class="jiazhi"><a href="#">‰ª∑ÂÄº</a></li>
+                    </ul>
+
+                </div>
+
+                 </div>
+
+                <!--Áõ∏ÂÖ≥ËÇ°Á•®ÂíåÊùøÂùó-->
+                <div class="be-stock-block clearflaot">
+                    <div class="be-stock">
+                        <div class="be-title">
+                            <span>Áõ∏ÂÖ≥ËÇ°Á•®</span>
+                        </div>
+                        <ul class="clearflaot">
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="be-block">
+                        <div class="be-title">
+                            <span>Áõ∏ÂÖ≥ÊùøÂùó</span>
+                        </div>
+                        <ul class="clearflaot">
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                            <li>
+                                <a></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+                <!--‰∏™ËÇ° ÂàóË°®-->
+                <div class="module module-share-list">
+	<h3>
+		<a>Áõ∏ÂÖ≥‰∏™ËÇ°Ë°åÊÉÖ</a>
+	</h3>
+	<div class="share-list">
+		<table cellpadding="0" cellspacing="0" border="0">
+			<thead>
+				<tr>
+					<td>‰ª£Á†Å</td>
+					<td>ÂêçÁß∞</td>
+					<td>Â∏ÇÂú∫</td>
+					<td>ÊúÄÊñ∞‰ª∑</td>
+					<td>Ê∂®Ë∑åÈ¢ù</td>
+					<td>Ê∂®Ë∑åÂπÖ</td>
+					<td>
+						<div>Êàê‰∫§Èáè</div>
+						<div>ÔºàÊâãÔºâ</div>
+					</td>
+					<td width="150">Áõ∏ÂÖ≥</td>
+				</tr>
+			</thead>
+			<tbody>
+				
+			</tbody>
+		</table>
+		<div class="more">
+			<a href="http://quote.eastmoney.com/center/">Êü•ÁúãÊõ¥Â§öÁõ∏ÂÖ≥‰∏™ËÇ°„Äã</a>
+		</div>
+	</div>
+</div>
+
+
+                <!--ÊùøÂùó-->
+                <div class="module module-block">
+	
+	<h3>
+		<a>Áõ∏ÂÖ≥ÊùøÂùó</a>
+	</h3>
+	
+	<div class="title clearflaot">
+		<div>
+			<h3></h3>
+			<span></span>
+		</div>
+		<label> </label>
+	</div>
+	
+	<div class="block-chatrs clearflaot">
+		<div class="block-chatr block-chatr-1">
+			<ul class="tabs-2 clearflaot">
+				<li class="tabs-act">ÂàÜÊó∂</li>
+				<li class="">Êó•K</li>
+			</ul>
+			<div class="tabs-2-charts">
+				<a>
+					<img src="" />
+				</a>
+				<a>
+					<img src="" />
+				</a>
+			</div>
+		</div>
+		
+		<div class="block-chatr block-chatr-2">
+			<ul class="tabs-2 clearflaot">
+				<li class="tabs-act">Áõò‰∏≠ËµÑÈáëÊµÅ</li>
+				<li>
+					<a href="">ÁõòÂêéËµÑÈáëÊµÅ</a>
+				</li>
+			</ul>
+			<div class="tabs-2-charts">
+				<a>
+					<img src="" />
+				</a>
+				<a></a>
+			</div>
+		</div>
+		
+		<div class="infolist">
+			<ul>
+				<li>
+					<label>‰ªäÂºÄÔºö</label>
+					<span></span>
+				</li>
+				<li>
+					<label>ÊúÄÈ´òÔºö</label>
+					<span></span>
+				</li>
+				<li>
+					<label>Êç¢ÊâãÔºö</label>
+					<span></span>
+				</li>
+				<li>
+					<label>Êàê‰∫§ÈáèÔºö</label>
+					<span></span>
+				</li>
+				<li>
+					<label>ÊµÅÈÄöÂ∏ÇÂÄºÔºö</label>
+					<span></span>
+				</li>
+				<li>
+					<label>Êò®Êî∂Ôºö</label>
+					<span></span>
+				</li>
+				<li>
+					<label>ÊúÄ‰ΩéÔºö</label>
+					<span></span>
+				</li>
+				<li>
+					<label>Êàê‰∫§È¢ùÔºö</label>
+					<span></span>
+				</li>
+			</ul>
+		</div>	
+		
+		
+	</div>
+	
+	<div class="title xgggt clearflaot">
+		<div>
+			<h3>Áõ∏ÂÖ≥‰∏™ËÇ°</h3>
+			<span></span>
+		</div>
+		<label>
+			<label>‰∏äÊ∂®ÂÆ∂Êï∞</label>
+			<span class="sz c-up"></span>
+			<label>‰∏ãË∑åÂÆ∂Êï∞</label>
+			<span class="xd c-down"></span>
+			<label>È¢ÜÊ∂®ËÇ°Á•®</label>
+			<a></a>     
+			<span class="lz"></span>
+			<img />
+		</label>
+	</div>
+	
+	<div class="xggg">
+		<table cellpadding="0" cellspacing="0" border="0">
+			<thead>
+				<tr>
+					<td>‰ª£Á†Å</td>
+					<td>ÂêçÁß∞</td>
+					<td>ÂΩìÂâç‰ª∑</td>
+					<td>Ê∂®Ë∑åÂπÖ</td>
+					<td>
+						<div>ËµÑÈáëÂáÄÊµÅÂÖ•</div>
+						<div>Ôºà‰∏áÔºâ</div>
+					</td>
+					<td>Êç¢ÊâãÁéá</td>
+					<td>Áõ∏ÂÖ≥</td>
+				</tr>
+			</thead>
+			<tbody>
+				
+			</tbody>
+		</table>
+		<div class="more">
+			<a href=""></a>
+		</div>
+	</div>
+	
+	<div class="other-block">
+		<label>ÂÖ∂‰ªñÁõ∏ÂÖ≥ÊùøÂùó:</label>
+	</div>
+	
+</div>
+
+
+                <!--ËÇ°‰∏úÁõ∏ÂÖ≥Êï∞ÊçÆ-->
+                <div class="module module-shareholder-data">
+	
+	<h3>
+		<a>ËÇ°‰∏úÁõ∏ÂÖ≥Êï∞ÊçÆ</a>
+	</h3>
+	
+	<div class="shareholder-analyze">
+		<h4>
+			<a>ËÇ°‰∏úÂàÜÊûê</a>
+		</h4>
+		<p></p>
+	</div>
+	
+	<div class="sa-table">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<thead>
+				<tr>
+					<td rowspan="2">ËÇ°‰∏úÂêçÁß∞</td>
+					<td rowspan="2">
+						<div>ËÇ°‰∏ú</div>
+						<div>Á±ªÂûã</div>
+					</td>
+					<td rowspan="2">ËÇ°Á•®‰ª£Á†Å</td>
+					<td rowspan="2">ËÇ°Á•®ÁÆÄÁß∞</td>
+					<td rowspan="2">Áõ∏ÂÖ≥</td>
+					<td rowspan="2">Êä•ÂëäÊúü</td>
+					<td colspan="4">ÊúüÊú´ÊåÅËÇ°</td>
+					<td rowspan="2">ÂÖ¨ÂëäÊó•</td>
+				</tr>
+				<tr>
+					<td>
+						<div>Êï∞Èáè</div>
+						<div>Ôºà‰∏áËÇ°Ôºâ</div>
+					</td>
+					<td>
+						<div>Êï∞ÈáèÂèòÂåñ</div>
+						<div>Ôºà‰∏áËÇ°Ôºâ</div>
+					</td>
+					<td>
+						<div>ÊåÅËÇ°</div>
+						<div>ÂèòÂä®</div>
+					</td>
+					<td>
+						<div>ÊµÅÈÄöÂ∏ÇÂÄº</div>
+						<div>Ôºà‰∏áÂÖÉÔºâ</div>
+					</td>
+				</tr>
+			</thead>
+			
+			<tbody>
+				<tr>
+					<td>ÂÜØÂÜõ</td>
+					<td>‰∏™‰∫∫</td>
+					<td>xxxxxx</td>
+					<td>Â§©ÈæôÈõÜÂõ¢</td>
+					<td>ËØ¶ÁªÜ</td>
+					<td>Êä•ÂëäÊúü</td>
+					<td>1700</td>
+					<td>0.00</td>
+					<td>‰∏çÂèò</td>
+					<td>3654</td>
+					<td>05-26</td>
+				</tr>
+			</tbody>
+			
+			<tfoot>
+				<tr>
+					<td colspan="11">
+						<a target="_blank" href="http://data.eastmoney.com/gdfx/HoldingDetail.aspx">ÁÇπÂáªÊü•ÁúãÂÖ®ÈÉ®>></a>
+					</td>
+				</tr>
+			</tfoot>
+			
+		</table>
+		
+		
+	</div>
+	
+</div>
+
+
+                <!--ÈòøÊãâ‰∏Å-->
+                <div class="module module-alading" >
+	<div class="ltitle"></div>
+	<div class="atitle"></div>
+	<div class="adesc"></div>
+	<div class="atable"></div>
+	<div class="amore"></div>
+</div>
+
+
+                <!--Áõ∏ÂÖ≥‰ø°ÊÅØ-->
+                <div class="module module-correlation-info">
+
+    <h3>Áõ∏ÂÖ≥‰ø°ÊÅØ</h3>
+
+   
+
+    <!---Áõ∏ÂÖ≥‰∫∫Áâ©----->
+    <div class="newsitmm renwu">
+        <a class="title-icon">
+            <img class="huati-name" src="/Content/img/renwu.png">
+        </a>
+        <div class="content">
+            <div class="zttitle">
+                <a class="cotitle"></a>
+                <p></p>
+            </div>
+            <div style="clear:both"></div>
+            <div class="renwudesc">
+                <div class="nowadays">
+                    <p>Áé∞‰ªªËÅåÔºö</p>
+                </div>
+
+                <div style="clear:both"></div>
+                <div class="renwucontent">
+                    <a class="jianjie">„ÄêÁÆÄ‰ªã„Äë</a>
+                    <span></span>
+                </div>
+            </div>
+            <div class="relationpicture" style="position:relative;">
+                <p class="searchName"></p>
+                <div>
+                    <div id="jsmind_container2"></div>
+                </div>
+            </div>
+            <div class="morerelation">
+
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <div class="othersrenwu">
+            <span>ÂÖ∂‰ªñÁõ∏ÂÖ≥‰∫∫Áâ©Ôºö</span>
+            <p></p>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+    <!----Áõ∏ÂÖ≥Êú∫ÊûÑ------>
+
+    <div class="newsitmm jigou">
+        <a class="title-icon">
+            <img class="huati-name" src="/Content/img/jigou.png">
+        </a>
+        <div class="content">
+            <div class="zttitle">
+                <a class="cotitle"></a>
+                <p></p>
+            </div>
+            <div style="clear:both"></div>
+            <div class="renwudesc">
+                <div class="nowadays">
+                </div>
+
+                <div style="clear:both"></div>
+                <div class="renwucontent">
+                    <a class="jianjie">„ÄêÁÆÄ‰ªã„Äë</a>
+                    <span></span>
+                </div>
+            </div>
+            <div class="relationpicture" style="position:relative;">
+                <p class="searchName"></p>
+                <div>
+                    <div id="jsmind_container3"></div>
+                </div>
+            </div>
+            <div class="morerelation">
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <div class="othersrenwu">
+            <span>ÂÖ∂‰ªñÁõ∏ÂÖ≥Êú∫ÊûÑÔºö</span>
+            <p></p>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+
+
+     <!---Áõ∏ÂÖ≥‰∏ªÈ¢ò----->
+    <div class="newsitmm subject" style="margin-top:20px">
+        <a class="title-icon" href="http://quote.eastmoney.com/zhuti/" target="_blank">
+            <img class="huati-name" src="/Content/img/zhuti.png">
+        </a>
+        <a class="topicname" id="subname"></a>
+        <a class="topicor" id="subor"></a>
+        <a class="represation"></a>
+        <div style="clear:both"></div>
+        <div class="subpower">
+            <p>‰∏ªÈ¢òÈ©±Âä®Ôºö<span></span></p>
+        </div>
+        <div class="options">
+            <p>Ê∂®Ë∑åÂÆ∂Êï∞:</p>
+            <div class="zhangbody">
+                <div class="inbody">
+                    <div class="top">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="selfselect" style="display: block;">
+            <table class="secontent" border="1">
+                <thead>
+                    <tr>
+                        <th>
+                            <span class="mystocktitle">ËÇ°Á•®</span>
+                        </th>
+                        <th>Áõ∏ÂÖ≥</th>
+                        <th>Ë°åÊÉÖ</th>
+                        <th>ÂÖ•ÈÄâÁêÜÁî±</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+                <tfoot>
+                    <tr>
+                        <td id="tablemore">
+                            <a target="_blank">Êõ¥Â§ö>></a>
+                        </td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+        <div style="clear:both"></div>
+        <div class="relationtopic">
+        </div>
+        <div style="clear:both"></div>
+        <div class="relationsubject">
+            <span>ËΩ¶Áõ∏ÂÖ≥ÁöÑ‰∏ªÈ¢òÔºö</span>
+            <div>
+            </div>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+    <!---Áõ∏ÂÖ≥‰∏ìÈ¢ò----->
+    <div class="newsitmm topic">
+        <a class="title-icon" href="http://quote.eastmoney.com/zhuti/" target="_blank">
+            <img class="huati-name" src="/Content/img/zhuti.png">
+        </a>
+        <a class="topicname" id="topicname"></a>
+        <div class="topicor">‰∏ìÈ¢ò</div>
+        <div style="clear:both"></div>
+        <div class="topicredu"></div>
+        <div class="topiccontent">
+            <div class="xgzhuti" style="font-size:14px;margin-top: 15px;color:#474747;">Áõ∏ÂÖ≥‰∏ªÈ¢ò</div>
+            <div class="content_nav_right">
+                <div class="nav_clude">
+                </div>
+            </div>
+
+        </div>
+        <div class="relationtopic">
+        </div>
+        <div style="clear:both"></div>
+        <div class="relationsubject">
+            <span></span>
+            <div>
+            </div>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+
+
+    <div class="newsitme huati" style="margin-top:20px;"></div>
+
+    <div class="newsitme zhuanti">
+        <a class="title-icon">
+            <img src="/Content/img/zhuanti.png">
+        </a>
+        <div class="content">
+            <div class="zttitle">
+                <a></a>
+            </div>
+            <div class="desc"></div>
+            <div class="imgcontent clearflaot">
+                <img src="">
+                <ul>
+                    <li style="display: none;"></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="newsitem ticai">
+        <a class="title-icon">
+            <img src="/Content/img/ticai.png">
+        </a>
+        <div class="tccontent">
+
+        </div>
+    </div>
+
+    <div class="other-huati">
+        <div class="huatis">
+            <div class="huati-item gonggao"></div>
+
+            <div class="huati-item yanbao"></div>
+
+            <div class="huati-item jigoudianyan"></div>
+
+            <div class="huati-item zixun"></div>
+
+            <div class="huati-item huati-author caifuhao"></div>
+
+            <div class="huati-item guba"></div>
+
+            <div class="huati-item wendongmi"></div>
+
+            <div class="huati-item xuanshangwen"></div>
+
+            <div class="huati-item huati-author boke"></div>
+        </div>
+
+    </div>
+
+</div>
+
+
+                <!--Êñ∞ÈóªÂàóË°®-->
+                <div class="module module-news-list">
+	<div class="newsitme huati"></div>
+	<div class="newsitme gongao"></div>
+	<div class="newsitme yanbao"></div>
+	<div class="newsitme zixun"></div>
+	<div class="newsitme caofuhao"></div>
+	<div class="newsitme guba"></div>
+	<div class="newsitme wendongmi"></div>
+	<div class="newsitme boke"></div>
+</div>
+
+
+                <!--Áõ∏ÂÖ≥ÊêúÁ¥¢-->
+                <div class="module module-correlation-search">
+	<h3>Áõ∏ÂÖ≥ÊêúÁ¥¢</h3>
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+
+            </div>
+
+            <!--Âè≥‰æßÂÜÖÂÆπ-->
+            <div class="corr-right">
+                
+<div class="hot-search clearflaot">
+	<div class="cg-title">
+		<h4>
+			<label>‰ªäÊó•ÁÉ≠Êêú</label>
+			<img src="/Content/img/hot.png" />
+		</h4>
+	</div>
+	<ul></ul>
+	<ul></ul>
+</div>
+
+<div class="lzgn">
+	<div class="cg-title">
+		<h4>È¢ÜÊ∂®Ê¶ÇÂøµ</h4>
+	</div>
+	<div class="lzgn-list">
+		<div class="lzgn-head"> 
+			<label>&nbsp;</label>
+			<span>ÂêçÁß∞</span>
+			<span>Ê∂®Ë∑åÂπÖ</span>
+			<span>È¢ÜÊ∂®ËÇ°</span>
+		</div>
+	</div>
+</div>
+
+
+<div class="sjxg" style="display: none;">
+    <div class="cg-title">
+        <h4>Êï∞ÊçÆÈÄâËÇ°</h4>
+    </div>
+    <div class="sjxg-list clearfloat">
+    </div>
+</div>
+
+
+<div class="corr-search">
+	<div class="cg-title">
+		<h4>Áõ∏ÂÖ≥ÊêúÁ¥¢</h4>
+	</div>
+	<ul></ul>
+</div>
+
+<div class="corr-guba">
+	<div class="cg-title">
+		<h4>Áõ∏ÂÖ≥ËÇ°Âêß</h4>
+		<div class="switch icon-show4">Â±ïÂºÄ</div>
+	</div>
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+
+<div class="corr-caifuhao r-caifuhao">
+	<div class="cg-title">
+		<h4>Ë¥¢ÂØåÂè∑</h4>
+		<a href="">Êõ¥Â§ö</a>						
+	</div>
+	
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+<div class="corr-caifuhao corr-bayou ">
+	<div class="cg-title">
+		<h4>ÂêßÂèã</h4>
+		<a href="">Êõ¥Â§ö</a>						
+	</div>
+	
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+<div class="corr-tzzh">
+	<div class="cg-title">
+		<h4>ÊäïËµÑÁªÑÂêà</h4>
+		<a href="">Êõ¥Â§ö</a>						
+	</div>
+	
+	<div class="manager">
+		<label>
+			<a></a>
+		</label>
+		<span></span>
+	</div>
+	
+	<div class="day-data">
+		<div class="left">
+			<div>
+				<label>ÊÄªÊî∂ÁõäÔºö</label>
+				<span class="c-up"></span>
+			</div>
+			<p>ÊÄªÊî∂ÁõäÊàòËÉú‰∫Ü<span></span>ÁöÑÁªÑÂêà</p>
+		</div>
+		<div class="right">
+			<ul>
+				<li>
+					<label>ÂáÄÂÄº:</label>
+					<span class="jz"></span>
+				</li>
+				<li>
+					<label>Áõà‰∫èÊØî:</label>
+					<span class="c-up"></span>
+					<span>Áõà</span>
+					<span class="c-down"></span>
+					<span>‰∫è</span>
+				</li>
+				<li>
+					<label>ËÉúÁéá:</label>
+					<span class="sl"></span>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+            </div>
+
+        </div>
+
+        <!--ÂàÜÈ°µ-->
+        <div class="page-group">
+	<ul class="clearflaot">
+		
+	</ul>
+</div>
+
+
+    </div>
+
+    <div class="footer">
+    <div class="footer-iframe" style="margin: 0 auto;overflow: hidden;width: 1216px;">
+        <iframe src="http://emres.dfcfw.com/public/footer-1200-iframe.html" frameborder="0" width="1216" height="356" style="overflow: hidden;"></iframe>
+    </div>
+</div>
+
+</body>
+
+<!--Â∫ïÈÉ®‰∏öÂä°JS-->
+<script src="http://emres.dfcfw.com/public/js/topnav.js" type="text/javascript"></script>
+<script type="text/javascript" src="/Content/js/lib/jquery.min.js"></script>
+<script type="text/javascript" src="/Content/js/lib/lodash.min.js"></script>
+<script src="//emcharts.dfcfw.com/suggest/stocksuggest2017.min.js"></script>
+<script type="text/javascript" src="/Content/js/index.min.js?__v=3.3.17"></script>
+<script>
+
+    var search_url, searchApi_url;
+        try {
+            search_url = "http://api.so.eastmoney.com/bussiness/";
+            searchApi_url = "http://api.so.eastmoney.com/";
+        } catch (e) {
+
+        }
+
+</script>
+<script type="text/javascript" src="/Content/js/lib/emcharttime.js"></script>
+<script>
+    var gubasearch_url = "http://api.so.eastmoney.com/api/Info/Search?type=8&token=32A8A21716361A5A387B0D85259A0037&and8=Term%2fRelatedCode%2f{input}%2ftrue&returnfields8=Url,ShortName&pageIndex8=1&pageSize8=10";
+    var search = window.spage.search;
+    new search();
+</script>
+
+<!--Â∫ïÈÉ®ÁªüËÆ°JS-->
+<script src="http://emcharts.dfcfw.com/newsts/newsts.min.js"></script>
+<script type="text/javascript" src="http://emcharts.dfcfw.com/usercollect/usercollect.min.js" charset="utf-8"></script>
+
+<script type="text/javascript" charset="UTF-8">
+    var emtj_isUpload = 1;
+    var emtj_pageId = 118000300904;
+    var emtj_logSet = "1111111111";
+    var emtj_sampleRate = 1;
+</script>
+<script type="text/javascript" src="https://bdstatics.eastmoney.com/web/prd/jump_tracker.js" charset="UTF-8"></script>
+ÔªøjQuery112405065479470006455_1560957752762({"Scode":"600023.SH","ApiResults":{"zj":{"Overall":[{"UpdateTime":"2019/6/19 16:30:00","TotalScore":"73.77","TotalScoreCHG":"-1.66000000000001","LeadPre":"91.9194704908991","RisePro":"43.6363636363636","MsgCount":"0","CapitalScore":"72.28","D1":"3.86830409195308","ValueScore":"76.28","MarketScoreCHG":"-0.959999999999994","Status":"1","Comment":"ËøëÊó•Ê∂àÊÅØÈù¢Êó†ÂèòÂåñÔºå‰∏ªÂäõËµÑÈáëÊúâ‰ªãÂÖ•ËøπË±°ÔºåÁü≠ÊúüÂëàÁé∞ÈúáËç°Ë∂ãÂäø„ÄÇÂÖ¨Âè∏Ë¥®Âú∞ËâØÂ•ΩÔºåÂ∏ÇÂú∫ÂÖ≥Ê≥®ÊÑèÊÑøÊó†ÊòéÊòæÂèòÂåñ„ÄÇ"}]}},"HasError":false,"UpdateTime":"2019-06-19T18:57:32.407125+08:00"})ÔªøjQuery112405065479470006455_1560957752762({"Scode":"600023.SH","ApiResults":{"zj":{"Overall":[{"UpdateTime":"2019/6/20 16:30:00","TotalScore":"76.72","TotalScoreCHG":"2.95","LeadPre":"94.3203749655363","RisePro":"44.2402510085164","MsgCount":"0","CapitalScore":"70.04","D1":"4.71186198543605","ValueScore":"76","MarketScoreCHG":"-1.28","Status":"1","Comment":"ËøëÊó•Ê∂àÊÅØÈù¢Êó†ÂèòÂåñÔºå‰∏ªÂäõËµÑÈáëÊúâ‰ªãÂÖ•ËøπË±°ÔºåÁü≠ÊúüÂëàÁé∞ÈúáËç°Ë∂ãÂäø„ÄÇÂÖ¨Âè∏Ë¥®Âú∞ËâØÂ•ΩÔºåÂ∏ÇÂú∫ÂÖ≥Ê≥®ÊÑèÊÑøÊó†ÊòéÊòæÂèòÂåñ„ÄÇ"}]}},"HasError":false,"UpdateTime":"2019-06-20T18:54:25.829+08:00"})
