@@ -1,0 +1,11 @@
+version: '3'
+services:
+  tushare:
+    image: python/pika
+    ports:
+            - 8081:8081
+    container_name: pythonpika
+    volumes: 
+      - /home/cyy/pika:/root/app/pika
+      
+

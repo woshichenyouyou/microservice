@@ -1,0 +1,20 @@
+version: '3'
+services:
+  tushare:
+    image: rabbitmq:3.8-rc-management-alpine
+    ports:
+            - 15672:15672
+            - 5672:5672
+    networks:
+      - front-tier
+      - back-tier
+    container_name: rabbitmq
+    volumes: 
+      - /home/cyy/rabbitmq:/root/app/rabbitmq
+    hostname: my-rabbit
+    
+networks:
+  front-tier:
+    driver: bridge
+  back-tier:
+    driver: bridge
