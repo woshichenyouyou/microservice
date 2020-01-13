@@ -1,7 +1,7 @@
 version: '3'
 services:
   tushare:
-    image: python/tushare1
+    image: python_tushare
     ports:
             - 8081:8081
     networks:
