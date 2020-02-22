@@ -1,13 +1,20 @@
 # coding=utf-8
 import pika
+from threading import Thread
 class Rabbit(object):
-    def __init__(self,username,password,host,port=5672):
+    def __init__(self,host,port,username,password):
+        print(host)
+        print(port)
+        print(username)
+        print(password)
         self.host = str(host)
         self.port = int(port)
         self.crt = pika.PlainCredentials(username,password)
         self.conn = pika.BlockingConnection(pika.ConnectionParameters(host=self.host,
             port=self.port,credentials=self.crt))
         self.channel = self.conn.channel()
+
+        self._receiver = None
  
     def declare_queue(self,queue_name,is_durable):
         que = self.channel.queue_declare(queue=queue_name,exclusive=True)
@@ -31,12 +38,10 @@ class Rabbit(object):
         self.channel.basic_qos(prefetch_count=1)
 
     def consume(self,queue_name,callback=None,no_ack=False):
-        if callback==None:
-            self.channel.basic_consume(queue=queue_name, on_message_callback=callback2, auto_ack=True)             
-        else:
-            self.channel.basic_consume(on_message_callback=callback,queue=queue_name,auto_ack=True)
+
+        self.channel.basic_consume(on_message_callback=callback,queue=queue_name,auto_ack=True)
         self.channel.start_consuming()
- 
+
     def msg_count(self,queue_name,is_durable=True):
         queue = self.channel.queue_declare(queue=queue_name,durable=is_durable)
         count = queue.method.message_count

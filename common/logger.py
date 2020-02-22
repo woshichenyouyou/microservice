@@ -30,3 +30,75 @@ class logger:
     def getlogger(self):       
         return self.logger
         # logger.debug('It works!')  # 记录该文件的运行状态
+
+from messagequeueclient import messagequeueclient
+import json
+class mylogger(logger):
+    def __init__(self,logfilename):
+        self.log = logger(logfilename)
+        self.logins = self.log.getlogger()
+        self.system_name=''
+        self.subsystem_name=''
+        self._messagequeueclient=None
+    def remote_init(self,ip,port,user,password,system_name,subsystem_name):
+        self._messagequeueclient = messagequeueclient(ip,port,user,password)
+        self.system_name = system_name
+        self.subsystem_name = subsystem_name
+
+    def debug(self,msg,bremote=False):
+        if bremote:
+            data={"system":self.system_name,
+                "subsystem":self.subsystem_name,
+                "level":"debug",
+                "message":msg}
+            bodydata = json.dumps(data)
+            self._messagequeueclient.send(bodydata,'log')
+        else:            
+            self.logins.debug('debug message') # 排错
+
+    def info(self,msg,bremote=False):  
+        if bremote:
+            data={"system":self.system_name,
+                "subsystem":self.subsystem_name,
+                "level":"info",
+                "message":msg}
+            bodydata = json.dumps(data)
+            self._messagequeueclient.send(bodydata,'log')
+        else:   
+            self.logins.info('debug message') # 正常信息
+
+    def warning(self,msg,bremote=False):
+        print("warning")   
+        if bremote:
+            print("warning1")
+            data={"system":self.system_name,
+                "subsystem":self.subsystem_name,
+                "level":"warning",
+                "message":msg}
+            bodydata = json.dumps(data)
+            self._messagequeueclient.send(bodydata,'log')
+        else:  
+            print("warning2")
+            self.logins.warning('debug message') # 警告
+
+    def error(self,msg,bremote=False):  
+        if bremote:
+            data={"system":self.system_name,
+                "subsystem":self.subsystem_name,
+                "level":"error",
+                "message":msg}
+            bodydata = json.dumps(data)
+            self._messagequeueclient.send(bodydata,'log')
+        else:   
+            self.logins.error('debug message') # 错误
+
+    def critical(self,msg,bremote=False):
+        if bremote:
+            data={"system":self.system_name,
+                "subsystem":self.subsystem_name,
+                "level":"critical",
+                "message":msg}
+            bodydata = json.dumps(data)
+            self._messagequeueclient.send(bodydata,'log')
+        else:     
+            self.logins.critical('debug message') # 崩溃
