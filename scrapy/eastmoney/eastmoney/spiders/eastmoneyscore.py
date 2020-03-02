@@ -9,7 +9,6 @@ from eastmoney.items import EastmoneyItem
 from scrapy.http import Request
 #from scrapy import optional_features
 from commondlib import stockctl
-import pysnooper
 
 #optional_features.remove('boto')
 
@@ -31,7 +30,6 @@ def mynexturl():
     nexturlt="http://gwapi.eastmoney.com/agent/1258/stockcomment/api/so/%s.json?appid=1466&tk=28228DE7FA07D013677756DD94686DEA&cb=jQuery112405065479470006455_1560957752762&_=1560957752774"%nextstockno
     print(nexturlt)
     return nexturlt
-#@pysnooper.snoop()
 class EastmoneyscoreSpider(scrapy.Spider):
     handle_httpstatus_list = [404, 500]
     name = "eastmoneyscore"
@@ -47,22 +45,27 @@ class EastmoneyscoreSpider(scrapy.Spider):
             yield Request(newurl,callback=self.parse,dont_filter=True)
             return
         try:
-            print("response")
+            print("response from url success")
+            print("response type is:")
             print(type(response))
+            print("response content is:")
             print(response)
             res = response.body.decode(response.encoding)
-            res1=res.encode('utf-8')
+            print("After decode response, type is:")
             print(type(res))
-            print(res1)
+            print(res)
             p1 = re.compile(r'[(](.*?)[)]', re.S)
-            finalres = re.findall(p1, res1)
-            print("finalres:%s"%finalres)
+            finalres = re.findall(p1, res)
+            print("finalres is:")
+            print(finalres)
             json_finalres = json.loads("".join(finalres))
+            print("json load success")
             Scode = json_finalres['Scode']
             ApiResults = json_finalres['ApiResults']
             HasError = json_finalres['HasError']
-            print("ApiResults")
+            print("ApiResults is:")
             print(ApiResults)
+            print("ApiResults type is:")
             print(type(ApiResults))
             Overall=ApiResults['zj']['Overall'][0]
             print(type(Overall))
@@ -78,7 +81,7 @@ class EastmoneyscoreSpider(scrapy.Spider):
             Status = Overall['Status']
             Comment = Overall['Comment']
             UpdateTime=Overall['UpdateTime']
-            print("Overall")
+            print("Overall is:")
             print(Overall)
             item = EastmoneyItem()
             item['stock_names'] = g_stock_name
@@ -111,7 +114,11 @@ class EastmoneyscoreSpider(scrapy.Spider):
             yield item
             newurl=mynexturl()
             yield Request(newurl,callback=self.parse,dont_filter=True)
-        except:
+        except Exception as e:
             print("error occur")
+            print('str(Exception):\t', str(Exception))
+            print('str(e):\t\t', str(e))
+            print('repr(e):\t', repr(e))
+            
             newurl=mynexturl()
             yield Request(newurl,callback=self.parse,dont_filter=True)

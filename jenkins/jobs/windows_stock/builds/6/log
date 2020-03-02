@@ -1,0 +1,13 @@
+Started by user [8mha:////4OPzno5WC4Cl2gjL7A5EKSxxPIjxPKPAhbtF2Fz8ErkKAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Building remotely on [8mha:////4AfFeGsd79+qkOM12TXgUEOY2kqhXI2NunL2GafRGlHtAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyREgY5/eT83ILSktQi/fLMvJT8ct2k0sycFN3cxOSMzLxUAHk8p83TAAAA[0mwindow-build-machine (build windows,) in workspace E:\Python\jenkins_agent\workspace\windows_stock
+[windows_stock] $ cmd /c call C:\Users\CHENYO~1\AppData\Local\Temp\jenkins1716273065646371962.bat
+
+E:\Python\jenkins_agent\workspace\windows_stock>cd ../../../autorun/autorun 
+
+E:\Python\autorun\autorun>python autorun.py 
+(178L, 246L)
+(600L, 330L)
+
+E:\Python\autorun\autorun>exit 0 
+Process leaked file descriptors. See https://jenkins.io/redirect/troubleshooting/process-leaked-file-descriptors for more information
+Finished: SUCCESS

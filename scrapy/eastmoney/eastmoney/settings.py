@@ -20,6 +20,7 @@ NEWSPIDER_MODULE = 'eastmoney.spiders'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
 DOWNLOAD_HANDLERS = {'S3': None,}
 FEED_EXPORT_ENCODING = 'utf-8'
+#FEED_EXPORT_ENCODING = 'GBK'
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS=32
 

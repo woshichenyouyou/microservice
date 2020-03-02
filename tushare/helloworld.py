@@ -34,9 +34,14 @@ def getstockinfonew():
         #print(type(data[res.iloc[i]["ts_code"]]))
         #print(type(res.iloc[i]["name"]))
     print(data)
+    writetocsv(data,'../result/stock_list.csv')
     dataj = json.dumps(data)
     return dataj
-    
+
+def writetocsv(my_dict,filename):
+    with open(filename, 'w') as f:
+        [f.write('{0},{1}\n'.format(key, value)) for key, value in my_dict.items()]  
+
 if __name__=="__main__":
     data=getstockinfonew()
     messagequeueclient = messagequeueclient('192.168.1.8',5672,'guest','guest')

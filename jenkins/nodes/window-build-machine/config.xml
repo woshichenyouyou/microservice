@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<slave>
+  <name>window-build-machine</name>
+  <description>used for windows build</description>
+  <remoteFS>E:\Python\jenkins_agent</remoteFS>
+  <numExecutors>1</numExecutors>
+  <mode>EXCLUSIVE</mode>
+  <retentionStrategy class="hudson.slaves.RetentionStrategy$Always"/>
+  <launcher class="hudson.slaves.JNLPLauncher"/>
+  <label>windows, build</label>
+  <nodeProperties/>
+</slave>

@@ -32,16 +32,15 @@ class EastmoneyPipeline(object):
         # adchar = chardet.detect(sss)
         # print("Comment adchar:%s"%adchar)
         print(type(item['stock_names']))
-        ss = item['stock_names'].decode('utf-8')
+        ss = item['stock_names']
         #adchar = chardet.detect(ss)
         #print("stock_names adchar:%s"%adchar)
         #print(ss)
         #print(type(ss))
 
-        str = item['stock_id'].decode("ascii")+","+ss+","+item['TotalScore']+","+item['TotalScoreCHG']+","+item['LeadPre']+","+item['RisePro']+","+item['MsgCount']+","+item['CapitalScore']+","+item['D1']+","+item['MarketScoreCHG']+","+item['Status']+","+item['Comment']+","+item['UpdateTime']+"\n"
+        str = item['stock_id']+","+ss+","+item['TotalScore']+","+item['TotalScoreCHG']+","+item['LeadPre']+","+item['RisePro']+","+item['MsgCount']+","+item['CapitalScore']+","+item['D1']+","+item['MarketScoreCHG']+","+item['Status']+","+item['Comment']+","+item['UpdateTime']+"\n"
         # str = item['stock_id']+","+item['TotalScore']+","+item['TotalScoreCHG']+","+item['LeadPre']+","+item['RisePro']+","+item['MsgCount']+","+item['CapitalScore']+","+item['D1']+","+item['MarketScoreCHG']+","+item['Status']+","+item['UpdateTime']+"\n"
         print("encode start")
-        str = unicode(str).encode("gb2312")
         print(str)
         
         f=open("eastmoney.csv","a+")
