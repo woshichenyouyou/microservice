@@ -43,7 +43,7 @@ class EastmoneyPipeline(object):
         print("encode start")
         print(str)
         
-        f=open("eastmoney.csv","a+")
+        f=open("..//..//result//eastmoney.csv","a+")
         f.write(str)
         f.close()
         return item

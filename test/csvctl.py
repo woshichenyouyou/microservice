@@ -13,6 +13,10 @@ def opencsv(filepath):
         header_row = next(reader)
         # 读取第二行，这行是真正的数据。
         for row in reader:
+            id = row[0]
+            en = row[1]
+            cn = row[2]
+            mat = row[3]
             data_list.append(row)           
             #print("id:%s en:%s cn:%s mat:%s"%(id,en,cn,mat))    
     return header_row,data_list
@@ -70,7 +74,8 @@ def QuickSort(myList,start,end):
         QuickSort(myList, start, i - 1)
         QuickSort(myList, j + 1, end)
     return myList
-    
+
+
 def csvQuickSort(myList,start,end,col):
     #判断low是否小于high,如果为false,直接返回
     if start < end:

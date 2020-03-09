@@ -7,6 +7,8 @@ echo $IMAGES_LIST
 for image in ${IMAGES_LIST[*]}
 do
     echo $image
-    docker save $image -o $IMAGE_DIR/$image.tar
+    outputname=${image/:/__}
+    echo $outputname
+    docker save $image -o $IMAGE_DIR/$outputname.tar
 done
 

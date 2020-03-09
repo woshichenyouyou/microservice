@@ -2,15 +2,18 @@
 #-*- coding: UTF-8 -*-
 import csv
 import sys
-def opencsv(filepath):
+def opencsv(filepath,isheadexist):
     filename = filepath
     data_list=[]
     # 打开文件
     with open(filename) as f:
         # 创建cvs文件读取器
         reader = csv.reader(f)
-        # 读取第一行，这行是表头数据。
-        header_row = next(reader)
+        if isheadexist:            
+            # 读取第一行，这行是表头数据。
+            header_row = next(reader)
+        else:
+            header_row = None
         # 读取第二行，这行是真正的数据。
         for row in reader:
             data_list.append(row)           
@@ -37,7 +40,8 @@ def writecsv(filepath,datalist,csvheader=[]):
     try:    
         file = open(filepath,'w')
         csv_write = csv.writer(file,dialect='excel')
-        csv_write.writerow(csvheader)
+        if csvheader is not None:
+            csv_write.writerow(csvheader)
         for i in datalist:
             csv_write.writerow(i)    
     except Exception :
@@ -105,18 +109,16 @@ def csvQuickSort(myList,start,end,col):
 if __name__ == '__main__':
     get_input = sys.argv
     srcfile = get_input[1]
-    desfile = get_input[2]
-    sortcol = get_input[3]
+    n=int(get_input[2])
+    desfile = get_input[3]
     print("src file: %s"%srcfile)
     print("des file: %s"%desfile)
-    print("sortcol: %s"%sortcol)
-    h,d = opencsv(srcfile)
+    h,d = opencsv(srcfile,False)
     print(h)
     print(d)
-
-    print("Quick Sort: ")
-    csvQuickSort(d,0,len(d)-1,int(sortcol))
-    for i in d:
+    l =[]
+    for i in range(n):
+        l.append(d[i])
         print(i)
     print("write csv")
-    writecsv(desfile,d,h)
+    writecsv(desfile,l,h)
