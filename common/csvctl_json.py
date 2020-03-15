@@ -2,6 +2,7 @@
 #-*- coding: UTF-8 -*-
 import csv
 import sys
+import json
 def opencsv(filepath,isheadexist):
     filename = filepath
     data_list=[]
@@ -20,25 +21,47 @@ def opencsv(filepath,isheadexist):
             #print("id:%s en:%s cn:%s mat:%s"%(id,en,cn,mat))    
     return header_row,data_list
 def opencsv_to_json(filepath,isheadexist,header):
-    filename = filepath
-    data_list={}
-    json_data=[]]
-    # 打开文件
-    with open(filename) as f:
-        # 创建cvs文件读取器
-        reader = csv.reader(f)
-        if isheadexist:            
-            # 读取第一行，这行是表头数据。
-            header_row = next(reader)
-        else:
-            header_row = None
-        # 读取第二行，这行是真正的数据。
-        json_row=None
+    # filename = filepath
+    # data_list={}
+    # json_data=[]
+    # # 打开文件
+    # with open(filename) as f:
+    #     # 创建cvs文件读取器
+    #     reader = csv.reader(f)
+    #     if isheadexist:            
+    #         # 读取第一行，这行是表头数据。
+    #         header_row = next(reader)
+    #     else:
+    #         header_row = None
+    #         header_row = header
+    #     # 读取第二行，这行是真正的数据。
+    #     json_row={}
+    #     for row in reader:
+    #         for col in header_row:
+    #             json_row[col]=row[col]
+    #     json_data.append(json_row)
+    # return json_data
+    
+    with open(filepath) as wf:
+        reader = csv.DictReader(wf,fieldnames=header)
+        print(type(reader))
+        
+        i=0
+        total_dict = {}
         for row in reader:
-            for col in header_row:
-                json_row[header_row[col]]=row[col]
-        json_data.append(json_row)
-    return json_data
+            #print(type(row))
+            #print(row)
+            id = row["stock_id"]
+            r={id:row}
+            total_dict=dict(total_dict,**r)
+            print("round is :%d\n"%i)
+            i=i+1
+            #data_list.append(json.dumps(row))
+        j = json.dumps(total_dict)
+        print(j)
+        return j
+        #items = list(reader)
+    #return items
 
 def writecsv(filepath,datalist,csvheader=[]):
     # try:
@@ -129,18 +152,6 @@ def csvQuickSort(myList,start,end,col):
 if __name__ == '__main__':
     get_input = sys.argv
     srcfile = get_input[1]
-    desfile = get_input[2]
-    sortcol = get_input[3]
-    print("src file: %s"%srcfile)
-    print("des file: %s"%desfile)
-    print("sortcol: %s"%sortcol)
-    h,d = opencsv(srcfile,False)
-    print(h)
-    print(d)
-
-    print("Quick Sort: ")
-    csvQuickSort(d,0,len(d)-1,int(sortcol))
-    for i in d:
-        print(i)
-    print("write csv")
-    writecsv(desfile,d,h)
+    headerfile=get_input[2]
+    header,data=opencsv(headerfile,True)
+    json_data=opencsv_to_json(srcfile,False,header)
