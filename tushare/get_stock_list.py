@@ -44,5 +44,5 @@ def writetocsv(my_dict,filename):
 
 if __name__=="__main__":
     data=getstockinfonew()
-    messagequeueclient = messagequeueclient('192.168.1.8',5672,'guest','guest')
-    messagequeueclient.send(data,'stock_list')
+#    messagequeueclient = messagequeueclient('192.168.1.8',5672,'guest','guest')
+#    messagequeueclient.send(data,'stock_list')
