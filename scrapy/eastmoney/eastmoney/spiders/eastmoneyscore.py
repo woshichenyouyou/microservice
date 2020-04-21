@@ -12,7 +12,7 @@ from commondlib import stockctl
 
 #optional_features.remove('boto')
 
-allstocksdict = stockctl.readallstock(os.path.join(os.getcwd(),"data","allstock.csv"))   
+allstocksdict = stockctl.readallstock(r"../../result/stock_list.csv")   
 stock_index=0
 g_stock_name="hxyh"
 g_stock_id="600015"
@@ -22,6 +22,7 @@ def mynexturl():
     global g_stock_id
     stock_index = stock_index + 1
     print (stock_index)
+    print("%d of %d is finished."%(stock_index,len(stockctl.stock_no)))
     nextstockno = stockctl.stock_no[stock_index]
     nextstockname=stockctl.allstockdict[nextstockno]
     g_stock_id = nextstockno

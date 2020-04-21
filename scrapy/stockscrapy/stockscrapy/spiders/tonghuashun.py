@@ -9,12 +9,13 @@ from scrapy.http import Request
 from commondlib import stockctl
 #optional_features.remove('boto')
 
-allstocksdict = stockctl.readallstock(os.path.join(os.getcwd(),"data","allstock.csv"))   
+allstocksdict = stockctl.readallstock(r"../../result/stock_list.csv")   
 stock_index=1
 def mynexturl():
     global stock_index
     stock_index = stock_index + 1
     print (stock_index)
+    print("%d of %d is finished."%(stock_index,len(stockctl.stock_no)))
     nextstockno = stockctl.stock_no[stock_index]
     nextstockname=stockctl.allstockdict[nextstockno]
     print(nextstockno +"," + nextstockname)
