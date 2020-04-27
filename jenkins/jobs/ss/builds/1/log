@@ -1,0 +1,21 @@
+Started by user [8mha:////4Is4yXyViVC7ZtunJdHcuAiLSYvL/GCnT3ENLDfbFePUAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9iiIQBQBL/gnpwQAAAA==[0mxruser
+Running as SYSTEM
+Building on master in workspace /var/jenkins_home/workspace/ss
+[ss] $ /bin/sh -xe /tmp/jenkins4362921391721756268.sh
++ echo -e \033[41;30m红底黑字\033[0m
+-e [41;30m红底黑字[0m
++ echo -e \033[30m 黑色字 \033[0m
+-e [30m 黑色字 [0m
++ echo -e \033[31m 红色字 \033[0m
+-e [31m 红色字 [0m
++ echo -e \033[32m 绿色字 \033[0m
+-e [32m 绿色字 [0m
++ echo -e \033[33m 黄色字 \033[0m
+-e [33m 黄色字 [0m
++ echo -e \033[46;30m 天蓝底黑字 \033[0m
+-e [46;30m 天蓝底黑字 [0m
++ echo -e \033[4;31m 下划线红字 \033[0m
+-e [4;31m 下划线红字 [0m
++ echo -e \033[5;34m 红字在闪烁 \033[0m
+-e [5;34m 红字在闪烁 [0m
+Finished: SUCCESS

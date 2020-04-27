@@ -56,7 +56,7 @@ if __name__ == '__main__':
     get_input = sys.argv
     sender = 'woshiyouyouchen@163.com'
     mailto_list = ['woshiyouyouchen@163.com']
-    mailcc_list = ['woshichenyouyou@163.com']
+    mailcc_list = ['wenfq20@163.com']
     receivers = mailto_list+mailcc_list
     #json.loads()
     print(len(get_input))
