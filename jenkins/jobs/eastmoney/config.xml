@@ -19,7 +19,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>cd /home/cyy
+      <command>cd /home/cyy/stock_project/
 ./east.sh</command>
     </hudson.tasks.Shell>
   </builders>

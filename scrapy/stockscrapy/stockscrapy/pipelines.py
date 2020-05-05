@@ -26,8 +26,9 @@ class StockscrapyPipeline(object):
         #print ("stockname:%s"%stock_name)
         
         print(stock_id)
-        str = stock_name+','+stock_id+','+totalscore+','+ "".join(item['score_tech'])[0:3]   +','+  "".join(item['score_money'])[0:3]  +','+ "".join(item['score_news'])[0:3]  +','+ "".join(item['score_industry'])[0:3]  +','+  "".join(item['score_basic'])[0:3]+"\n"
-        #str = unicode(str).encode("utf-8")
+        #str = stock_name+','+stock_id+','+totalscore+','+ "".join(item['score_tech'])[0:3]   +','+  "".join(item['score_money'])[0:3]  +','+ "".join(item['score_news'])[0:3]  +','+ "".join(item['score_industry'])[0:3]  +','+  "".join(item['score_basic'])[0:3]+"\n"
+        str = stock_id+ ","+stock_name+","+ totalscore+"\n"
+
         print(str)
         output_filename = r"../../result/scrapystockinfo.csv"
         print("output filename:%s"%output_filename)

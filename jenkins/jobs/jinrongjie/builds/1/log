@@ -1,0 +1,8 @@
+Started by user [8mha:////4Is4yXyViVC7ZtunJdHcuAiLSYvL/GCnT3ENLDfbFePUAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9iiIQBQBL/gnpwQAAAA==[0mxruser
+Running as SYSTEM
+Building remotely on [8mha:////4MkE27dvCLCrqQSWSjStzXQogS5/THwIXo19srqQH1wPAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYB/eT83ILSktQi/dKk0rySUgDdPy90xQAAAA==[0mubuntu in workspace /home/cyy/workspace/jinrongjie
+[jinrongjie] $ /bin/sh -xe /tmp/jenkins6736652442898793660.sh
++ cd /home/cyy
++ ./jinrongjie.sh
+the input device is not a TTY
+Finished: SUCCESS

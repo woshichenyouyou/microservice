@@ -2,3 +2,5 @@ wheel
 chardet
 scrapy
 pysnooper
+js2xml
+beautifulsoup4

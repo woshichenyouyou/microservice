@@ -22,7 +22,7 @@ def opencsv(filepath,isheadexist):
 def opencsv_to_json(filepath,isheadexist,header):
     filename = filepath
     data_list={}
-    json_data=[]]
+    json_data=[]
     # 打开文件
     with open(filename) as f:
         # 创建cvs文件读取器
