@@ -1,0 +1,26 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<scriptApproval plugin="script-security@1.71">
+  <approvedScriptHashes>
+    <string>017d0db438428731cd600b6ebda805065433520f</string>
+    <string>42bca21d6d44ecd2ea867d44cc40e7a0f1a4604c</string>
+    <string>43c19d80ea2799bb1fb0bc4d8019caca8f26df6e</string>
+    <string>5419d39eb39bd329149454bceb787ce888968165</string>
+    <string>5c0075f268a18744268ec718623063876f9d3770</string>
+    <string>808ef02c6e22f31caccf0f6846d7e3dd45fac7c5</string>
+    <string>8e906dea9fc91fa17a2421e214bab9dfefdf4ee4</string>
+    <string>b7c6239aa803665f434b0fe2de3bb3cc43d1e0f1</string>
+    <string>c22b3e8ee9d1b6972d41b0522cb2e50c74579127</string>
+  </approvedScriptHashes>
+  <approvedSignatures/>
+  <aclApprovedSignatures/>
+  <approvedClasspathEntries/>
+  <pendingScripts/>
+  <pendingSignatures>
+    <pendingSignature>
+      <context/>
+      <signature>new java.lang.StringBuffer</signature>
+      <dangerous>false</dangerous>
+    </pendingSignature>
+  </pendingSignatures>
+  <pendingClasspathEntries/>
+</scriptApproval>

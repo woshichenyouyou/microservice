@@ -1,0 +1,3 @@
+choice_A
+choice_B
+choice_C

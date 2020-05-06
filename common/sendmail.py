@@ -31,7 +31,7 @@ def send_mail(FROM,TO,msg,SUBJECT):
         HOST = 'smtp.163.com'
         PORT = '25'
         FROM = 'woshiyouyouchen@163.com'
-        TO = 'woshichenyouyou@163.com'
+        TO = 'woshiyouyouchen@163.com'
 
         SUBJECT = 'testsubject'
         CONTENT = "this is the mail content"
@@ -56,7 +56,7 @@ if __name__ == '__main__':
     get_input = sys.argv
     sender = 'woshiyouyouchen@163.com'
     mailto_list = ['woshiyouyouchen@163.com']
-    mailcc_list = ['wenfq20@163.com']
+    mailcc_list = ['']
     receivers = mailto_list+mailcc_list
     #json.loads()
     print(len(get_input))
@@ -64,18 +64,7 @@ if __name__ == '__main__':
         attachment_file = get_input[1]
         now=time.strftime("%Y-%m-%d %H:%M:%S")
         subject = now
-        html_text = """\
-<!DOCTYPE html>
-<html>
-<meta charset="utf-8">
-<head>
-    <title>Test Summary</title>
-</head>
-<body>
-East
-</body>
-</html>
-                    """
+        html_text = ""
         #attachment_file = '/home/cyy/Test/stockproject/1.txt'
 
 
