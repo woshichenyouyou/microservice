@@ -2,6 +2,7 @@
 <scriptApproval plugin="script-security@1.71">
   <approvedScriptHashes>
     <string>017d0db438428731cd600b6ebda805065433520f</string>
+    <string>1a4bd1f23dfd02fde8a848c8fce70b2c66095da7</string>
     <string>42bca21d6d44ecd2ea867d44cc40e7a0f1a4604c</string>
     <string>43c19d80ea2799bb1fb0bc4d8019caca8f26df6e</string>
     <string>5419d39eb39bd329149454bceb787ce888968165</string>

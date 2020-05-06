@@ -10,6 +10,18 @@
     </com.sonyericsson.rebuild.RebuildSettings>
     <hudson.model.ParametersDefinitionProperty>
       <parameterDefinitions>
+        <hudson.model.StringParameterDefinition>
+          <name>IP</name>
+          <description></description>
+          <defaultValue>10.190.50.107</defaultValue>
+          <trim>false</trim>
+        </hudson.model.StringParameterDefinition>
+        <hudson.model.StringParameterDefinition>
+          <name>password</name>
+          <description></description>
+          <defaultValue>a123456789</defaultValue>
+          <trim>false</trim>
+        </hudson.model.StringParameterDefinition>
         <org.biouno.unochoice.ChoiceParameter plugin="uno-choice@2.2.2">
           <name>project</name>
           <description></description>
@@ -75,7 +87,7 @@ return[&quot;G4_VNC&quot;,&quot;G4_ssh&quot;]
               <script>def list=new File(&quot;/var/jenkins_home/jenkins_project/choice.txt&quot;).readLines();
 list.each
 {
-println it.toUpperCase();
+println it;
 }</script>
               <sandbox>false</sandbox>
             </secureScript>
@@ -90,6 +102,10 @@ println it.toUpperCase();
           <filterable>false</filterable>
           <filterLength>1</filterLength>
         </org.biouno.unochoice.ChoiceParameter>
+        <hudson.model.FileParameterDefinition>
+          <name>/home</name>
+          <description></description>
+        </hudson.model.FileParameterDefinition>
       </parameterDefinitions>
     </hudson.model.ParametersDefinitionProperty>
   </properties>
