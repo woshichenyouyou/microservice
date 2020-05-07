@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: mdonohue
+Build-Jdk: 1.7.0_101
+Extension-Name: join
+Specification-Title: Triggering a job after a group of jobs finish
+Implementation-Title: join
+Implementation-Version: 1.21
+Group-Id: org.jenkins-ci.plugins
+Short-Name: join
+Long-Name: Join plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Join+Plugin
+Plugin-Version: 1.21
+Hudson-Version: 1.600
+Jenkins-Version: 1.600
+Plugin-Dependencies: parameterized-trigger:2.26;resolution:=optional,m
+ aven-plugin:2.12;resolution:=optional,downstream-ext:1.7;resolution:=
+ optional,flexible-publish:0.15.2;resolution:=optional,matrix-project:
+ 1.6;resolution:=optional
+Plugin-Developers: Michael Donohue:mdonohue:,Stefan Wolf:wolfs:
+
