@@ -42,21 +42,21 @@ class JinrongjiespiderSpider(scrapy.Spider):
             return
         try:
             print("response from url success")
-            print("response type is:")
-            print(type(response))
-            print("response content is:")
-            print(response)
+            #print("response type is:")
+            #print(type(response))
+            #print("response content is:")
+            #print(response)
             res = response.body.decode(response.encoding)
-            print("After decode response, type is:")
-            print(type(res))
+            #print("After decode response, type is:")
+            #print(type(res))
             json_str = res.split("=", 1)[1]
     
             json_finalres = json.loads("".join(json_str))
-            print("json load success")
-            print(json_finalres)
+            #print("json load success")
+            #print(json_finalres)
             score=json_finalres["score"]["score"]
             comments=json_finalres["score"]["comment"]
-            print("score is: %s comments is: %s"%(score,comments))
+            #print("score is: %s comments is: %s"%(score,comments))
             item = JinrongjieItem()
             item["stock_id"] = g_stock_id
             item["stock_names"] = g_stock_name

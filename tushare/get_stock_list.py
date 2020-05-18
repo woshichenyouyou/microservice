@@ -33,7 +33,7 @@ def getstockinfonew():
         data[res.iloc[i]["ts_code"]]=res.iloc[i]["name"]
         #print(type(data[res.iloc[i]["ts_code"]]))
         #print(type(res.iloc[i]["name"]))
-    print(data)
+    #print(data)
     writetocsv(data,'../result/stock_list.csv')
     dataj = json.dumps(data)
     return dataj

@@ -42,8 +42,8 @@ class TonghuashunSpider(scrapy.Spider):
             item['score_l']=response.xpath('//span[@class="smallnum"]/text()').extract()
             item['stock_names']=response.xpath('//div[@class="stockname"]/a/text()').extract()
             res = response.xpath('//div[@class="column_3d"]/div[@class="label"]/text()').extract()
-            print(type(res))
-            print(res)
+            #print(type(res))
+            #print(res)
         
             item['score_tech'] = res[0]
             item['score_money'] = res[1]

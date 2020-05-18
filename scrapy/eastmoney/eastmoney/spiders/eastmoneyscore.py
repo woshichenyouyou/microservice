@@ -47,29 +47,29 @@ class EastmoneyscoreSpider(scrapy.Spider):
             return
         try:
             print("response from url success")
-            print("response type is:")
-            print(type(response))
-            print("response content is:")
-            print(response)
+            #print("response type is:")
+            #print(type(response))
+            #print("response content is:")
+            #print(response)
             res = response.body.decode(response.encoding)
-            print("After decode response, type is:")
-            print(type(res))
-            print(res)
+            #print("After decode response, type is:")
+            #print(type(res))
+            #print(res)
             p1 = re.compile(r'[(](.*?)[)]', re.S)
             finalres = re.findall(p1, res)
-            print("finalres is:")
-            print(finalres)
+            #print("finalres is:")
+            #print(finalres)
             json_finalres = json.loads("".join(finalres))
-            print("json load success")
+            #print("json load success")
             Scode = json_finalres['Scode']
             ApiResults = json_finalres['ApiResults']
             HasError = json_finalres['HasError']
-            print("ApiResults is:")
-            print(ApiResults)
-            print("ApiResults type is:")
-            print(type(ApiResults))
+            #print("ApiResults is:")
+            #print(ApiResults)
+            #print("ApiResults type is:")
+            #print(type(ApiResults))
             Overall=ApiResults['zj']['Overall'][0]
-            print(type(Overall))
+            #print(type(Overall))
             TotalScore = Overall['TotalScore']
             TotalScoreCHG = Overall['TotalScoreCHG']
             LeadPre = Overall['LeadPre']
@@ -82,8 +82,8 @@ class EastmoneyscoreSpider(scrapy.Spider):
             Status = Overall['Status']
             Comment = Overall['Comment']
             UpdateTime=Overall['UpdateTime']
-            print("Overall is:")
-            print(Overall)
+            #print("Overall is:")
+            #print(Overall)
             item = EastmoneyItem()
             item['stock_names'] = g_stock_name
             item['stock_id'] = g_stock_id
@@ -99,7 +99,7 @@ class EastmoneyscoreSpider(scrapy.Spider):
             item['Status'] = Status
             item['Comment'] = Comment
             item['UpdateTime'] = UpdateTime    
-            print("json success")
+            #print("json success")
             
             # item['total_score']=response.xpath('//div[@class="pingfen"]/span/text()')
             # for i in item['total_score']:

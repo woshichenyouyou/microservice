@@ -42,11 +42,11 @@ stock_id_list,allstocksdict = readallstock(r"../../result/stock_list.csv")
 def mynexturl():
     global stock_index
     stock_index = stock_index + 1
-    print (stock_index)
+    #print (stock_index)
     print("%d of %d is finished."%(stock_index,len(stock_id_list)))
     nextstockid = stock_id_list[stock_index]
     id = allstocksdict[nextstockid]["id"]
-    print("nextstockid: %s,id: %s"%(nextstockid,id))
+    #print("nextstockid: %s,id: %s"%(nextstockid,id))
     nextstockname=allstocksdict[nextstockid]["name"]
     area=allstocksdict[nextstockid]["area"]
     print(nextstockid +"," + nextstockname+","+area)
@@ -71,10 +71,10 @@ class DazhihuiSpider(scrapy.Spider):
             return
         try:
             print("response from url success")
-            print("response type is:")
-            print(type(response))
-            print("response content is:")
-            print(response)
+            #print("response type is:")
+            #print(type(response))
+            #print("response content is:")
+            #print(response)
             resp = response.text
             soup = BeautifulSoup(resp,'lxml')
             res = response.body.decode(response.encoding)

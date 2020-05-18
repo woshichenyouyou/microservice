@@ -1,16 +1,11 @@
-Started at Mon May 04 20:11:29 UTC 2020
+Started at Sat May 16 05:36:41 UTC 2020
+Checking build_all
+Checking build_single
 Checking dazhihui
 Checking eastmoney
 Checking jinrongjie
 Checking jinrongjie_score
 Checking test
+Checking test_groovy
 Checking tonghuashun
-Finished at Mon May 04 20:11:29 UTC 2020. 55ms
-Started at Tue May 05 20:11:29 UTC 2020
-Checking dazhihui
-Checking eastmoney
-Checking jinrongjie
-Checking jinrongjie_score
-Checking test
-Checking tonghuashun
-Finished at Tue May 05 20:11:29 UTC 2020. 55ms
+Finished at Sat May 16 05:36:42 UTC 2020. 1006ms

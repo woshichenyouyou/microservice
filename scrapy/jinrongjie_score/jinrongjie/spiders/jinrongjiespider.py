@@ -41,23 +41,23 @@ class JinrongjiespiderSpider(scrapy.Spider):
             yield Request(newurl,callback=self.parse,dont_filter=True)
             return
         try:
-            print("response from url success")
-            print("response type is:")
-            print(type(response))
-            print("response content is:")
-            print(response)
+            #print("response from url success")
+            #print("response type is:")
+            #print(type(response))
+            #print("response content is:")
+            #print(response)
             res = response.body.decode(response.encoding)
-            print("After decode response, type is:")
-            print(type(res))
+            #print("After decode response, type is:")
+            #print(type(res))
             json_str = res.split("=", 1)[1]
-            print("js is: %s"%json_str)
+            #print("js is: %s"%json_str)
             json_finalres = json.loads(json_str)
-            print("json load success")
-            print(json_finalres)
-            print(type(json_finalres))
+            #print("json load success")
+            #print(json_finalres)
+            #print(type(json_finalres))
             score=json_finalres[0]["score"]
             percent=json_finalres[0]["percent"]
-            print("score is: %s percent is: %s"%(score,percent))
+            #print("score is: %s percent is: %s"%(score,percent))
             item = JinrongjieItem()
             item["stock_id"] = g_stock_id
             item["stock_names"] = g_stock_name
