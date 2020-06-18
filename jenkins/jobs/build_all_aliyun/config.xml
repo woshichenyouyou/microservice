@@ -1,0 +1,92 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@2.38">
+  <actions>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobAction plugin="pipeline-model-definition@1.6.0"/>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction plugin="pipeline-model-definition@1.6.0">
+      <jobProperties/>
+      <triggers/>
+      <parameters/>
+      <options/>
+    </org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction>
+  </actions>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties>
+    <com.sonyericsson.rebuild.RebuildSettings plugin="rebuild@1.31">
+      <autoRebuild>false</autoRebuild>
+      <rebuildDisabled>false</rebuildDisabled>
+    </com.sonyericsson.rebuild.RebuildSettings>
+    <org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
+      <triggers>
+        <hudson.triggers.TimerTrigger>
+          <spec>H 14 * * 1,2,3,4,5</spec>
+        </hudson.triggers.TimerTrigger>
+      </triggers>
+    </org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
+  </properties>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@2.80">
+    <script>pipeline {
+    agent {
+		node{
+		label &apos;aliyun_ubuntu&apos;
+		}
+	}
+    stages {
+        stage(&apos;get_stocklist&apos;) {
+            steps {
+                echo &apos;get_stocklist executed first.&apos;
+				script{
+					echo &quot;this is get_stocklist script&quot;
+					sh &quot;cd /home/microservice/stock_project/;./get_stocklist.sh&quot;
+				}
+            }
+
+        }
+        stage(&apos;query_data&apos;) {
+            parallel {
+                stage(&apos;tonghua&apos;) {
+                    steps {
+                        echo &quot;tonghua executing&quot;
+						sh &quot;sleep 5;cd /home/microservice/stock_project/;./tonghua.sh&quot;
+                    }
+                }
+                stage(&apos;jinrongjie&apos;) {
+                    steps {
+                        echo &quot;jinrong executing&quot;
+						sh &quot;sleep 15;cd /home/microservice/stock_project/;./jinrongjie.sh&quot;
+                    }
+                }
+                stage(&apos;jinrongjie_score&apos;) {
+                    steps {
+                        echo &quot;jinrongjie_score executing&quot;
+						sh &quot;sleep 25;cd /home/microservice/stock_project/;./jinrongjie_score.sh&quot;
+
+                    }
+                }
+                stage(&apos;dazhihui&apos;) {
+                    steps {
+                        echo &quot;dazhihui executing&quot;
+						sh &quot;sleep 35;cd /home/microservice/stock_project/;./dazhihui_xiaozhi.sh&quot;
+                    }
+                }
+                stage(&apos;eastmoney&apos;) {
+                    steps {
+                        echo &quot;eastmoney executing&quot;
+						sh &quot;sleep 45;cd /home/microservice/stock_project/;./east.sh&quot;
+                    }
+                }
+            }
+        }
+        stage(&apos;send_mail&apos;) {
+            steps {
+                echo &apos;send_mail executed at last.&apos;
+				sh &quot;cd /home/microservice/stock_project/;python3 result_process.py;python3 ../common/sendmail.py ../result/all_result.csv&quot;
+            }
+        }
+    }
+}</script>
+    <sandbox>false</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>

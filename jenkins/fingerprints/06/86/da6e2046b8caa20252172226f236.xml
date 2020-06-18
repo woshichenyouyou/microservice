@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-06-18 12:51:22.573 UTC</timestamp>
+  <md5sum>0686da6e2046b8caa20252172226f236</md5sum>
+  <fileName>Credential id=aliyun_ubuntu name=root/****** (aliyun_ubuntu)</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@2.3.7">
+      <timestamp>1592484682571</timestamp>
+      <nodeName>aliyun</nodeName>
+      <timestamp0>1592484682571</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

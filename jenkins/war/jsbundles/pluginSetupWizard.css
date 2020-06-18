@@ -492,7 +492,8 @@
        url("[object Module]#Roboto") format('svg'); /* Legacy iOS */
 }
 
-.bootstrap-3 * {
+.bootstrap-3 *,
+.bootstrap-3 [class*='col-'] {
   margin: initial;
   padding: initial;
 }
@@ -537,22 +538,7 @@ body .plugin-setup-wizard {
   z-index: 1000;
   background: rgba(0, 0, 0, 0.2);
   text-align: initial;
-  font-family: sans-serif;
-}
-body .plugin-setup-wizard table,
-body .plugin-setup-wizard form,
-body .plugin-setup-wizard input,
-body .plugin-setup-wizard td,
-body .plugin-setup-wizard th,
-body .plugin-setup-wizard p,
-body .plugin-setup-wizard textarea,
-body .plugin-setup-wizard select,
-body .plugin-setup-wizard h1,
-body .plugin-setup-wizard h2,
-body .plugin-setup-wizard h3,
-body .plugin-setup-wizard h4,
-body .plugin-setup-wizard h5 {
-  font-family: 'roboto', sans-serif;
+  font-size: 13px;
 }
 body .plugin-setup-wizard input::-ms-clear,
 body .plugin-setup-wizard password::-ms-clear {
@@ -580,7 +566,6 @@ body .plugin-setup-wizard .modal-dialog {
   position: relative;
   margin: 0 auto;
   max-width: 992px;
-  font-family: 'roboto', sans-serif;
 }
 body .plugin-setup-wizard .modal-content {
   height: 100%;
@@ -599,6 +584,9 @@ body .plugin-setup-wizard .container.error-container {
 }
 body .plugin-setup-wizard .container.error-container h1 {
   color: #a94442;
+}
+body .plugin-setup-wizard .error {
+  margin-bottom: 1em;
 }
 body .plugin-setup-wizard .modal-body {
   background: linear-gradient(175deg, #f8f8f8 0%, #ffffff 22%, rgba(255, 255, 255, 0) 100%);
@@ -874,7 +862,7 @@ body .plugin-setup-wizard .plugin-selector .plugins .plugin-list .plugin label .
 }
 body .plugin-setup-wizard .plugin-selector .plugins .plugin-list .plugin label input[type=checkbox] {
   float: left;
-  margin: 2px -18px;
+  margin: 3px -18px;
   vertical-align: middle;
 }
 body .plugin-setup-wizard .plugin-selector .plugins .plugin-list .plugin label + .tooltip {
@@ -902,7 +890,7 @@ body .plugin-setup-wizard .plugin-selector .plugins .plugin-list .plugin .websit
   height: 11px;
   content: '';
   left: 2px;
-  top: 2px;
+  top: 3px;
   background: #555;
   border-radius: 4px;
 }
@@ -912,7 +900,7 @@ body .plugin-setup-wizard .plugin-selector .plugins .plugin-list .plugin .websit
   font: 15px FontAwesome;
   text-indent: 0;
   position: absolute;
-  top: 0;
+  top: 1px;
   left: 1px;
   width: 14px;
   height: 14px;
@@ -929,6 +917,7 @@ body .plugin-setup-wizard .plugin-selector .plugins .plugin-list .plugin .websit
   width: 16px;
   height: 16px;
   font-size: 17px;
+  line-height: 17px;
   left: 0px;
   top: -1px;
 }
@@ -1167,6 +1156,7 @@ body .plugin-setup-wizard .selected-plugin-progress .selected-plugin:nth-child(o
 body .plugin-setup-wizard .selected-plugin-progress .selected-plugin:before {
   font-family: FontAwesome;
   font-size: 17px;
+  line-height: 17px;
   content: '\f10c';
   color: rgba(0, 0, 0, 0.1);
   position: absolute;
@@ -8229,5 +8219,14 @@ button.bootstrap-3 .close {
   .bootstrap-3 .hidden-print {
     display: none !important;
   }
+}
+.bootstrap-3 [class*='col-'] {
+  margin: initial;
+  padding: initial;
+}
+.bootstrap-3 .categories,
+.bootstrap-3 .plugins {
+  padding-left: 0;
+  padding-right: 0;
 }
 

@@ -10,15 +10,14 @@
   align-items: center;
   height: 100%;
   padding: 16px 24px;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: bold;
-  line-height: 1.5;
-  background-color: white;
+  background-color: #fff;
   clip-path: polygon(0 0, 100% 0, 95% 100%, 0 100%);
 }
 .ui-refresh A.page-header__brand-link:link,
 .ui-refresh A.page-header__brand-link:visited {
-  color: #4d545d;
+  color: #4D545D;
   text-decoration: none;
 }
 .ui-refresh A.page-header__brand-link:hover,
@@ -58,5 +57,9 @@
 }
 .ui-refresh #visible-am-container.visible #visible-am-button {
   background-color: #095683;
+}
+.ui-refresh #visible-am-button .am-monitor__count {
+  color: #721c24;
+  background-color: #f8d7da;
 }
 

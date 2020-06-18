@@ -84,7 +84,7 @@
   cursor: pointer;
   color: #ccc;
   text-shadow: #fff 0 1px 2px;
-  font-size: 0.85em;
+  font-size: 0.875rem;
   padding: 3px 7px;
   display: none;
 }
@@ -182,30 +182,9 @@
   right: 0;
   z-index: 2;
 }
-#jenkins .jenkins-config table .bottom-sticker .yui-button.primary button,
-#jenkins .jenkins-config table #bottom-sticker .yui-button.primary button {
-  background: #478;
-  border-color: #356;
-}
-#jenkins .jenkins-config table .bottom-sticker .yui-button.yui-button-disabled button,
-#jenkins .jenkins-config table #bottom-sticker .yui-button.yui-button-disabled button {
-  background: #eee;
-  border-color: #ccc;
-  color: #ccc;
-}
-#jenkins .jenkins-config table .bottom-sticker .yui-button,
-#jenkins .jenkins-config table #bottom-sticker .yui-button {
-  margin-right: 10px;
-}
-#jenkins .jenkins-config table .bottom-sticker .yui-button button,
-#jenkins .jenkins-config table #bottom-sticker .yui-button button {
-  padding: 5px 20px;
-  background: #cde;
-  border-color: #69c;
-}
 #jenkins .jenkins-config table .section-header {
   margin: 30px 0px 5px -10px;
-  font-size: 1.5em;
+  font-size: 1.25rem;
   padding: 10px 15px;
   border: none;
   border-top: 1px solid #ddd;
@@ -233,7 +212,6 @@
 #jenkins .jenkins-config table td textarea.setting-input {
   display: block;
 }
-#jenkins .jenkins-config table td .yui-button button,
 #jenkins .jenkins-config table td input[type='email'].setting-input,
 #jenkins .jenkins-config table td input[type='password'].setting-input,
 #jenkins .jenkins-config table td input[type='text'].setting-input {
@@ -243,13 +221,6 @@
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-}
-#jenkins .jenkins-config table td .yui-button button {
-  padding: 0 10px;
-  box-sizing: content-box;
-}
-#jenkins .jenkins-config table td .yui-button button.hetero-list-add {
-  padding-right: 25px;
 }
 #jenkins .jenkins-config table td select:not([multiple]) {
   height: 2.25em;
@@ -265,8 +236,7 @@
 #jenkins .jenkins-config table td p,
 #jenkins .jenkins-config table td .help,
 #jenkins .jenkins-config table td .setting-description {
-  font-size: 1em;
-  line-height: 1.4;
+  font-size: 1rem;
 }
 #jenkins .jenkins-config table td[colspan="4"]:empty {
   display: none;
@@ -350,6 +320,8 @@
   line-height: 12px !important;
   display: inline-block;
   font-size: 8px;
+  min-width: 0;
+  min-height: 0;
 }
 #jenkins .jenkins-config table .repeatable-delete button:focus,
 #jenkins .jenkins-config table .repeatable-delete button:hover {
@@ -420,43 +392,11 @@
   min-width: auto;
   margin-right: 0px;
 }
-#add-item-panel form > .footer .btn-decorator button[type=submit] {
-  padding: 5px 20px;
-  background-color: #ccddee;
-  border-color: #6699cc;
-  border-radius: 3px;
-  border-width: 1px;
-  border-style: solid;
-  color: #505050;
-  font-weight: bold;
-  font-size: 12px;
-  line-height: 27px;
-}
-#add-item-panel form > .footer .btn-decorator button[type=submit]:hover:not(.disabled),
-#add-item-panel form > .footer .btn-decorator button[type=submit]:focus:not(.disabled) {
-  background-color: #447788;
-  border-color: #335566;
-  color: #eeeeee;
-  cursor: pointer;
-}
-#add-item-panel form > .footer .btn-decorator button[type=submit]:active:not(.disabled) {
-  box-shadow: inset 0px 1px 6px 2px #1b2b33;
-}
-#add-item-panel form > .footer .btn-decorator button[type=submit].disabled {
-  background-color: #ccc;
-  border-color: #aaa;
-  color: #8c8c8c;
-  cursor: auto;
-  opacity: 0.75;
-}
 #add-item-panel .add-item-name {
   padding: 20px;
 }
 #add-item-panel .add-item-name label {
   position: relative;
-  display: block;
-  font-size: 22px;
-  font-weight: bold;
   padding-bottom: 10px;
 }
 #add-item-panel .item-copy {
@@ -467,14 +407,14 @@
   background-color: #f9f9f9;
 }
 #add-item-panel .item-copy p.description {
-  font-size: 16px;
+  font-size: 1rem;
   margin-top: 0;
 }
 #add-item-panel .item-copy .add-item-copy {
   position: relative;
   padding-left: 58px;
   /* This is needed because <s:textbox /> included YUI styles and we need to override this one */
-  font-family: Helvetica, Arial, sans-serif !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans", Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
 }
 #add-item-panel .item-copy .add-item-copy input[type=radio] {
   display: none;
@@ -494,7 +434,7 @@
 #add-item-panel .add-item-copy .input-help {
   color: #666;
   font-style: italic;
-  font-size: 13px;
+  font-size: 0.875rem;
   padding-top: 2px;
 }
 #add-item-panel .add-item-name .input-validation-message,
@@ -572,7 +512,6 @@
   box-shadow: inset #003399 0 0 1px, inset #ffffff 0 0 0 1px, 0 5px 3px -2px rgba(0, 0, 0, 0.25), inset -5px -5px 10px 2px #336699, inset -5px -10px 15px 14px #6699cc;
 }
 #add-item-panel input {
-  font-size: 1.5em;
   background-color: #fff;
   padding: 5px 10px;
   border: 1px solid #999;
@@ -662,7 +601,7 @@
 }
 .j-item-options li label {
   display: block;
-  font-size: 1.1em;
+  font-size: 1rem;
   font-weight: bold;
   color: #000;
   padding-bottom: 5px;
