@@ -1,7 +1,8 @@
 
 
 
-
+docker run -it --rm --name scrapycontainer -v /home/microservice/:/usr/src/app -w /usr/src/app/scrapy/  python_scrapy scrapy startproject tonghuashun
+docker run -it --rm --name scrapycontainer -v /home/microservice/:/usr/src/app -w /usr/src/app/scrapy/tonghuashun  python_scrapy scrapy genspider tonghuashun http://doctor.10jqka.com.cn/
 
 
 
