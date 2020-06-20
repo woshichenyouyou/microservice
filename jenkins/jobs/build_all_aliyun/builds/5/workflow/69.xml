@@ -1,0 +1,25 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<Tag plugin="workflow-support@3.4">
+  <node class="cps.n.StepAtomNode" plugin="workflow-cps@2.80">
+    <parentIds>
+      <string>68</string>
+    </parentIds>
+    <id>69</id>
+    <descriptorId>org.jenkinsci.plugins.workflow.steps.durable_task.ShellStep</descriptorId>
+  </node>
+  <actions>
+    <cps.a.ArgumentsActionImpl plugin="workflow-cps@2.80">
+      <arguments>
+        <entry>
+          <string>script</string>
+          <string>cd /home/microservice/stock_project/;python3 result_process.py;python3 ../common/sendmail.py ../result/all_result.csv</string>
+        </entry>
+      </arguments>
+      <isUnmodifiedBySanitization>true</isUnmodifiedBySanitization>
+    </cps.a.ArgumentsActionImpl>
+    <wf.a.TimingAction plugin="workflow-api@2.40">
+      <startTime>1592584711109</startTime>
+    </wf.a.TimingAction>
+    <s.a.LogStorageAction/>
+  </actions>
+</Tag>

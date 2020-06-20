@@ -1,79 +1,48 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
 import sys
 import os
-import smtplib
 import time
-from email.mime.multipart import MIMEMultipart
-from email.header import Header
+import smtplib
 from email.mime.text import MIMEText
+from email.header import Header
 from email.mime.application import MIMEApplication
-
-def mail_message(sender,mailto_list,mailcc_list,subject,html_text,attachment_file):
-    print("mail_message start")
-    content = MIMEText(html_text, _subtype='html', _charset='utf-8')
-    message = MIMEMultipart()
-    message.attach(content)
-    message['From'] = Header("youyou", 'utf-8')
-    message['To'] = ";".join(mailto_list)
-    message['Cc'] = ";".join(mailcc_list)
-    message['Subject'] = Header(subject, 'utf-8')
-    attachments = MIMEApplication(open(attachment_file, 'rb').read())
-    attachments["Content-Type"] = 'application/octet-stream'
-    attachments.add_header('Content-Disposition', 'attachment', filename=os.path.basename(attachment_file))
-    message.attach(attachments)
-    print("mail_message end")
-    return message
-
-def send_mail(FROM,TO,msg,SUBJECT):
-    print("send_mail start")
-    try:                
-        HOST = 'smtp.163.com'
-        PORT = '25'
-        FROM = 'woshiyouyouchen@163.com'
-        TO = 'woshiyouyouchen@163.com'
-
-        SUBJECT = 'testsubject'
-        CONTENT = "this is the mail content"
-
-        smtp_obj = smtplib.SMTP()
-
-        smtp_obj.connect(host=HOST, port=PORT)
-
-        res = smtp_obj.login(user=FROM, password='cyy07110313')
-        print('logon result:', res)
-
-        #msg = '\n'.join(['From: {}'.format(FROM), 'To: {}'.format(TO), 'Subject: {}'.format(SUBJECT), '', CONTENT])
-        smtp_obj.sendmail(from_addr=FROM, to_addrs=TO, msg=msg.as_string())
-        print("Send mail succed!")
-        return True
-    except Exception as e:
-        print(e)
-        return False
-
-if __name__ == '__main__':
-
+from email.mime.multipart import MIMEMultipart
+# 邮箱配置
+SMTP_CONFIG = {
+    "mail_host" : "smtp.163.com",      	 # qq邮件服务器
+    "mail_user" : "woshiyouyouchen@163.com",    	 # 用户名
+    "mail_pass" : "MCMJCENUAIYPSIIF",       	 # 授权码,上面开通qqSTMP服务的授权码
+    "sender" : "woshiyouyouchen@163.com",     	 # 发送邮箱
+    "receivers" : ['woshiyouyouchen@163.com']   # 接收邮箱,可多个任意邮箱
+}
+class SendMsg():
+    def send_email(self, subject, content,attachment_file):
+       # 第三方 SMTP 服务
+        try:
+            html_text="<html><h1>this is stock info</h1><body>check for attached details</body></html>"
+            content = MIMEText(html_text, _subtype='html', _charset='utf-8')
+            message = MIMEMultipart()
+            message.attach(content)
+            #message = MIMEText(content, 'plain', 'utf-8')  # 发送内容
+            message['Subject'] = Header(subject, 'utf-8')	# 发送标题
+            message['From'] =  SMTP_CONFIG["sender"]		# 发送人
+            message['To'] =  SMTP_CONFIG["receivers"][0]	# 接收人
+            attachments = MIMEApplication(open(attachment_file, 'rb').read())
+            attachments["Content-Type"] = 'application/octet-stream'
+            attachments.add_header('Content-Disposition', 'attachment', filename=os.path.basename(attachment_file))
+            message.attach(attachments)
+            smtp = smtplib.SMTP_SSL(host=SMTP_CONFIG["mail_host"], port=465)  # 465是邮件ssl端口
+            smtp.login(SMTP_CONFIG["mail_user"] ,SMTP_CONFIG["mail_pass"])    # 服务器登录  
+            smtp.sendmail(SMTP_CONFIG["sender"], SMTP_CONFIG["receivers"], message.as_string())
+            smtp.close()
+            print("mail send success")
+        except smtplib.SMTPException:
+            print("mail send fail")
+	            
+if __name__ == "__main__":
     get_input = sys.argv
-    sender = 'woshiyouyouchen@163.com'
-    mailto_list = ['woshiyouyouchen@163.com']
-    mailcc_list = ['']
-    receivers = mailto_list+mailcc_list
-    #json.loads()
-    print(len(get_input))
-    if len(get_input) == 2:
-        attachment_file = get_input[1]
-        now=time.strftime("%Y-%m-%d %H:%M:%S")
-        subject = now
-        html_text = ""
-        #attachment_file = '/home/cyy/Test/stockproject/1.txt'
-
-
-        msg = mail_message(sender,mailto_list,mailcc_list,subject,html_text,attachment_file)
-
-        send_mail(sender,receivers,msg,subject)
-
-    else:
-        print("Send mail Fail!")
-        pass
-
-
+    attachment_file = get_input[1]
+    print("the file need to send is:%s"%attachment_file)
+    now=time.strftime("%Y-%m-%d %H:%M:%S")
+    subject = "stock"+now
+    content = "this is the mail content"
+    SendMsg().send_email(subject,content,attachment_file)
