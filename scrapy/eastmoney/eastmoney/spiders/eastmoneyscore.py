@@ -21,6 +21,8 @@ def mynexturl():
     global g_stock_name
     global g_stock_id
     stock_index = stock_index + 1
+    if stock_index >= len(stockctl.stock_no):
+        return ""
     print (stock_index)
     print("%d of %d is finished."%(stock_index,len(stockctl.stock_no)))
     nextstockno = stockctl.stock_no[stock_index]
@@ -43,6 +45,8 @@ class EastmoneyscoreSpider(scrapy.Spider):
         if response.status == 404:
             print("404 error occur")
             newurl=mynexturl()
+            if newurl == "":
+                return
             yield Request(newurl,callback=self.parse,dont_filter=True)
             return
         try:
@@ -114,6 +118,9 @@ class EastmoneyscoreSpider(scrapy.Spider):
             # print(item['tomorrow_score'])
             yield item
             newurl=mynexturl()
+            if newurl == "":
+                return
+
             yield Request(newurl,callback=self.parse,dont_filter=True)
         except Exception as e:
             print("error occur")
@@ -122,4 +129,7 @@ class EastmoneyscoreSpider(scrapy.Spider):
             print('repr(e):\t', repr(e))
             
             newurl=mynexturl()
+            if newurl == "":
+                return
+
             yield Request(newurl,callback=self.parse,dont_filter=True)

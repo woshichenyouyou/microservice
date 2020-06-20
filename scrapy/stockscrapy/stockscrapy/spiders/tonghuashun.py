@@ -26,7 +26,7 @@ class TonghuashunSpider(scrapy.Spider):
     name = "tonghuashun"
     #rules=(Rule(LinkExtractor(allow=('\d\.shtml')),callback='parse_item',follow=True),)
     allowed_domains = ["tonghuasun.com"]
-    start_urls = ('http://doctor.10jqka.com.cn/300770/')
+    start_urls = ('http://doctor.10jqka.com.cn/300770/',)
     def parse(self, response):
         try:
 #            print("response")
