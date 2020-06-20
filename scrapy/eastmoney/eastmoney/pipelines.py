@@ -41,8 +41,8 @@ class EastmoneyPipeline(object):
         str = item['stock_id']+","+ss+","+item['TotalScore']+","+item['TotalScoreCHG']+","+item['LeadPre']+","+item['RisePro']+","+item['MsgCount']+","+item['CapitalScore']+","+item['D1']+","+item['MarketScoreCHG']+","+item['Status']+","+item['Comment']+","+item['UpdateTime']+"\n"
         str = item['stock_id']+","+ss+","+item['TotalScore']+"\n"
 
-        print("encode start")
-        print(str)
+        #print("encode start")
+        #print(str)
         
         f=open("..//..//result//eastmoney.csv","a+")
         f.write(str)

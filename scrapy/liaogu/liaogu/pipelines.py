@@ -8,4 +8,11 @@
 
 class LiaoguPipeline(object):
     def process_item(self, item, spider):
+        TotalScore=item['TotalScore']
+        TotalScore=TotalScore.replace("%","")
+        str = item['stock_id']+","+item['stock_names']+","+TotalScore +"\n"
+        #print(str)       
+        f=open("..//..//result//liaogu.csv","a+")
+        f.write(str)
+        f.close()
         return item

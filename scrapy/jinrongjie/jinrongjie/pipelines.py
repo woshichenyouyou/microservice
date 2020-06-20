@@ -8,13 +8,13 @@
 
 class JinrongjiePipeline(object):
     def process_item(self, item, spider):
-        print("jinrongjiePipeline")
-        print("stock_id: %s"% item['stock_id'])
-        print("stock_names: %s"% item['stock_names'])
-        print("TotalScore: %s"% item['TotalScore'])
-        print("comments: %s"% item['comments'])
+        #print("jinrongjiePipeline")
+        #print("stock_id: %s"% item['stock_id'])
+        #print("stock_names: %s"% item['stock_names'])
+        #print("TotalScore: %s"% item['TotalScore'])
+        #print("comments: %s"% item['comments'])
         str = item['stock_id']+","+item['stock_names']+","+item['TotalScore']+","+item['comments']+"\n"
-        print(str)       
+        #print(str)       
         f=open("..//..//result//jinrongjie.csv","a+")
         f.write(str)
         f.close()

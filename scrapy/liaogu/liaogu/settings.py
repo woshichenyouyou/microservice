@@ -13,13 +13,29 @@ BOT_NAME = 'liaogu'
 
 SPIDER_MODULES = ['liaogu.spiders']
 NEWSPIDER_MODULE = 'liaogu.spiders'
+################################################################################
+SPLASH_URL = 'http://112.126.99.163:8050'
+SPIDER_MIDDLEWARES = {
+   #'splashpeoject.middlewares.SplashpeojectSpiderMiddleware': 543,
+    'scrapy_splash.SplashDeduplicateArgsMiddleware': 100,
+}
+DOWNLOADER_MIDDLEWARES = {
+    #'splashpeoject.middlewares.SplashpeojectDownloaderMiddleware': 543,
+    'scrapy_splash.SplashCookiesMiddleware': 723,
+    'scrapy_splash.SplashMiddleware': 725,
+    'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810,
+}
+# 配置去重组件类DUPEFILTER_CLASS
+DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
+# 使用Splash的Http缓存
+HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'
 
-
+##########################################################
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'liaogu (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -64,9 +80,9 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'liaogu.pipelines.LiaoguPipeline': 300,
-#}
+ITEM_PIPELINES = {
+    'liaogu.pipelines.LiaoguPipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

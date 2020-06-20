@@ -11,4 +11,7 @@ import scrapy
 class LiaoguItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
+    stock_id = scrapy.Field()
+    stock_names = scrapy.Field()
+    TotalScore = scrapy.Field()
     pass
