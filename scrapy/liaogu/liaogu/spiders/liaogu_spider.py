@@ -61,7 +61,7 @@ class LiaoguSpiderSpider(scrapy.Spider):
     start_urls = 'https://www.liaogu.com/zg-detail.html?stockCode=600015'
     def start_requests(self):
         #yield SplashRequest(url=self.start_urls,callback=self.parse,meta={'title':'xxxx'},args={'wait':"3"}
-        yield SplashRequest(url=self.start_urls,callback=self.parse, args={'images':0,'wait':3,'timeout': 5})
+        yield SplashRequest(url=self.start_urls,callback=self.parse, args={'images':0,'wait':3,'timeout': 50})
 
     def parse(self, response):
         global global_current_stock_id
@@ -70,7 +70,7 @@ class LiaoguSpiderSpider(scrapy.Spider):
         if response.status == 404:
             print("404 error occur")
             global_current_stock_id,global_current_stock_name,global_current_stock_area, newurl=mynexturl()
-            yield SplashRequest(url=newurl,callback=self.parse, args={'images':0,'wait':3,'timeout': 5})
+            yield SplashRequest(url=newurl,callback=self.parse, args={'images':0,'wait':3,'timeout': 50})
             return
         try:
             #print(response.text)
@@ -82,7 +82,7 @@ class LiaoguSpiderSpider(scrapy.Spider):
             item["stock_names"]=global_current_stock_name
             item["TotalScore"]=ret
             yield item
-            yield SplashRequest(url=newurl,callback=self.parse, args={'images':0,'wait':3,'timeout': 5})  
+            yield SplashRequest(url=newurl,callback=self.parse, args={'images':0,'wait':3,'timeout': 50})  
         except Exception as e:
             print("error occur")
             print('str(Exception):\t', str(Exception))
@@ -90,5 +90,5 @@ class LiaoguSpiderSpider(scrapy.Spider):
             print('repr(e):\t', repr(e))
 
             global_current_stock_id,global_current_stock_name,global_current_stock_area, newurl=mynexturl()
-            yield SplashRequest(url=newurl,callback=self.parse, args={'images':0,'wait':3,'timeout': 5})       
+            yield SplashRequest(url=newurl,callback=self.parse, args={'images':0,'wait':3,'timeout': 50})       
         pass

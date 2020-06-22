@@ -83,7 +83,7 @@ ROBOTSTXT_OBEY = False
 ITEM_PIPELINES = {
     'liaogu.pipelines.LiaoguPipeline': 300,
 }
-
+USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True
