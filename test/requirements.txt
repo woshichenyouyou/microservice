@@ -1,0 +1,15 @@
+wheel
+flask == 1.1.2
+chardet == 3.0.4
+scrapy == 2.1.0
+js2xml == 0.3.1
+libxslt
+lxml == 4.5.1
+requests == 2.24.0
+pandas == 1.0.5
+beautifulsoup4 == 4.9.1
+tushare == 1.2.60
+pysnooper == 0.4.1
+pika == 1.1.0
+urllib
+psycopg2
